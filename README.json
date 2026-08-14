@@ -249,7 +249,7 @@
             "last_commit": "2023-06-25T01:11:13Z",
             "owner": "TheOfficialFloW",
             "repo": "VitaShell",
-            "stars": 1539
+            "stars": 1538
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-06-09T21:12:07Z",
             "owner": "blastrock",
             "repo": "pkgj",
-            "stars": 1309
+            "stars": 1310
           }
         },
         {
@@ -302,10 +302,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T23:19:26Z",
+            "last_commit": "2026-08-14T19:00:37Z",
             "owner": "Rinnegatamante",
             "repo": "VitaDB-Downloader",
-            "stars": 284
+            "stars": 283
           }
         },
         {
@@ -316,10 +316,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T05:09:59Z",
+            "last_commit": "2026-08-14T22:32:47Z",
             "owner": "robin994",
             "repo": "NeoVitaDB-Downloader",
-            "stars": 118
+            "stars": 122
           }
         },
         {
@@ -372,10 +372,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T20:52:32Z",
+            "last_commit": "2026-08-14T11:45:28Z",
             "owner": "unveroleone",
             "repo": "save-sync",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -538,7 +538,7 @@
             "last_commit": "2026-08-03T17:05:10Z",
             "owner": "MuxaJlbl4",
             "repo": "Awesome-PlayStation-Vita",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -549,7 +549,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T00:14:28Z",
+            "last_commit": "2026-08-14T22:25:03Z",
             "owner": "Rinnegatamante",
             "repo": "vitaGL",
             "stars": 618
@@ -602,7 +602,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-09T22:29:29Z",
+            "last_commit": "2026-08-14T18:39:09Z",
             "owner": "libretro",
             "repo": "libretro-super",
             "stars": 470
@@ -619,7 +619,7 @@
             "last_commit": "2026-08-12T00:40:48Z",
             "owner": "noword",
             "repo": "Emu4VitaPlus",
-            "stars": 245
+            "stars": 246
           }
         }
       ],
@@ -653,7 +653,7 @@
             "last_commit": "2026-08-09T19:30:22Z",
             "owner": "Hydr8gon",
             "repo": "NooDS",
-            "stars": 1139
+            "stars": 1141
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-07-21T21:54:31Z",
             "owner": "Grarak",
             "repo": "DSVita",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-08-09T23:13:37Z",
             "owner": "isage",
             "repo": "Adrenaline",
-            "stars": 315
+            "stars": 317
           }
         }
       ],
@@ -783,7 +783,7 @@
             "last_commit": "2026-08-03T11:04:03Z",
             "owner": "EasyRPG",
             "repo": "Player",
-            "stars": 1214
+            "stars": 1213
           }
         },
         {
@@ -811,7 +811,7 @@
             "last_commit": "2025-07-12T00:23:07Z",
             "owner": "SonicMastr",
             "repo": "godot-vita",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-13T21:19:25Z",
             "owner": "Fewnity",
             "repo": "Xenity-Engine",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -912,7 +912,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T01:01:03Z",
+            "last_commit": "2026-08-14T21:14:05Z",
             "owner": "SquirrelJME",
             "repo": "SquirrelJME",
             "stars": 319
@@ -963,7 +963,7 @@
             "last_commit": "2025-06-07T01:37:42Z",
             "owner": "xerpi",
             "repo": "vita2hos",
-            "stars": 1254
+            "stars": 1255
           }
         },
         {
@@ -1312,7 +1312,7 @@
             "last_commit": "2023-06-25T01:11:13Z",
             "owner": "TheOfficialFloW",
             "repo": "VitaShell",
-            "stars": 1539
+            "stars": 1538
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "last_commit": "2025-01-29T07:14:57Z",
             "owner": "SilentNightx",
             "repo": "VitaDockPlus",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -2219,7 +2219,7 @@
             "last_commit": "2026-04-25T06:34:29Z",
             "owner": "xfangfang",
             "repo": "wiliwili",
-            "stars": 5424
+            "stars": 5423
           }
         },
         {
@@ -2402,10 +2402,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:47:28Z",
+            "last_commit": "2026-08-14T09:30:07Z",
             "owner": "dragonflylee",
             "repo": "switchfin",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -2481,7 +2481,7 @@
             "last_commit": "2026-08-06T15:24:15Z",
             "owner": "Day-OS",
             "repo": "green-vita",
-            "stars": 101
+            "stars": 102
           }
         },
         {
@@ -2492,7 +2492,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T20:46:01Z",
+            "last_commit": "2026-08-14T17:07:10Z",
             "owner": "mauricio-gg",
             "repo": "vitaki-vitarps5",
             "stars": 85
@@ -2655,7 +2655,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2023-07-17T10:40:52Z",
+            "last_commit": "2026-08-14T18:43:19Z",
             "owner": "Electry",
             "repo": "VitaGrafixPatchlist",
             "stars": 210
@@ -2824,7 +2824,7 @@
             "last_commit": "2026-05-19T22:35:27Z",
             "owner": "bucanero",
             "repo": "apollo-vita",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -3023,7 +3023,7 @@
             "last_commit": "2026-08-03T17:05:10Z",
             "owner": "MuxaJlbl4",
             "repo": "Awesome-PlayStation-Vita",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -3169,7 +3169,7 @@
             "last_commit": "2026-07-20T19:10:56Z",
             "owner": "avetis-dev",
             "repo": "PSPAchievementsSystem",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -3247,7 +3247,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T00:14:28Z",
+            "last_commit": "2026-08-14T22:25:03Z",
             "owner": "Rinnegatamante",
             "repo": "vitaGL",
             "stars": 618
@@ -3275,7 +3275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T23:25:38Z",
+            "last_commit": "2026-08-14T23:33:16Z",
             "owner": "vitasdk",
             "repo": "vdpm",
             "stars": 269
@@ -3306,7 +3306,7 @@
             "last_commit": "2026-07-22T00:37:57Z",
             "owner": "v-atamanenko",
             "repo": "soloader-boilerplate",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -3556,7 +3556,7 @@
             "last_commit": "2026-08-13T16:39:45Z",
             "owner": "HandBrake",
             "repo": "HandBrake",
-            "stars": 24002
+            "stars": 24013
           }
         },
         {
@@ -3870,7 +3870,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T15:16:47Z",
+            "last_commit": "2026-08-14T05:37:43Z",
             "owner": "Vita3K",
             "repo": "compatibility",
             "stars": 196
@@ -3935,7 +3935,7 @@
             "last_commit": "2026-08-03T17:05:10Z",
             "owner": "MuxaJlbl4",
             "repo": "Awesome-PlayStation-Vita",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -3963,7 +3963,7 @@
             "last_commit": "2025-05-10T22:55:50Z",
             "owner": "Rinnegatamante",
             "repo": "Android2Vita-Candidate-Ports-List",
-            "stars": 206
+            "stars": 207
           }
         },
         {
@@ -3985,7 +3985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:02:34.254Z",
+    "last_updated": "2026-08-14T23:42:49.880Z",
     "original_repository": "MuxaJlbl4/Awesome-PlayStation-Vita",
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
     "enhanced_repository": "enhansome/enhansome-Awesome-PlayStation-Vita",
