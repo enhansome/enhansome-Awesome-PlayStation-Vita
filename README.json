@@ -591,7 +591,7 @@
                 "last_commit": "2026-08-23T09:35:18Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 623
+                "stars": 624
               }
             },
             {
@@ -716,7 +716,7 @@
                 "last_commit": "2026-07-21T21:54:31Z",
                 "owner": "Grarak",
                 "repo": "DSVita",
-                "stars": 507
+                "stars": 508
               }
             },
             {
@@ -738,6 +738,28 @@
           "description": null,
           "node_type": "group",
           "title": "7️⃣ 7th Gen"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mGBA",
+              "description": "Nintendo Game Boy Advance emulator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27788471,
+                "language": "C",
+                "last_commit": "2026-08-23T02:35:16Z",
+                "owner": "mgba-emu",
+                "repo": "mgba",
+                "stars": 7309
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6️⃣ 6th Gen"
         },
         {
           "children": [
@@ -854,7 +876,7 @@
                 "archived": false,
                 "id": 976168502,
                 "language": "C++",
-                "last_commit": "2026-08-21T10:14:02Z",
+                "last_commit": "2026-08-24T01:46:11Z",
                 "owner": "ScratchEverywhere",
                 "repo": "ScratchEverywhere",
                 "stars": 540
@@ -984,7 +1006,7 @@
                 "last_commit": "2026-08-22T06:19:24Z",
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
-                "stars": 319
+                "stars": 320
               }
             },
             {
@@ -1021,6 +1043,28 @@
           "description": null,
           "node_type": "group",
           "title": "⌨️ Interpreters & Virtual Machines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YoYo Loader Vita",
+              "description": "Android GameMaker Studio Runner application for the PS Vita (Log Reset)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478217717,
+                "language": "C",
+                "last_commit": "2026-08-14T08:38:16Z",
+                "owner": "Rinnegatamante",
+                "repo": "yoyoloader_vita",
+                "stars": 214
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🌉 Platforms"
         },
         {
           "children": [
@@ -1065,6 +1109,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EQVita",
+              "description": "System-wide 8-band graphic equalizer kernel plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1121372007,
+                "language": "C",
+                "last_commit": "2026-07-07T14:00:15Z",
+                "owner": "shev0k",
+                "repo": "EQVita",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔊 Audio"
+        },
         {
           "children": [
             {
@@ -1531,6 +1597,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LCD Color Saturation",
+              "description": "App for improving color saturation on your Vita 2000",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272282727,
+                "language": "C",
+                "last_commit": "2020-09-13T15:40:52Z",
+                "owner": "Electric1447",
+                "repo": "lcd-color-saturation",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔅 PS Vita 2000"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DolcePolce",
+              "description": "Allows you to play all PS Vita games on PS TV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229058668,
+                "language": "C",
+                "last_commit": "2026-03-23T00:27:36Z",
+                "owner": "LiEnby",
+                "repo": "DolcePolce",
+                "stars": 63
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📺 PS TV"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VitaDock+",
               "description": "Raspberry Pi Linux distribution for docking station with video output to a TV",
               "children": [],
@@ -1741,7 +1851,7 @@
                 "last_commit": "2026-08-17T08:08:04Z",
                 "owner": "thcolin",
                 "repo": "gamepad-media-center-aggregator",
-                "stars": 107
+                "stars": 108
               }
             },
             {
@@ -3501,7 +3611,7 @@
                 "last_commit": "2026-08-23T09:35:18Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 623
+                "stars": 624
               }
             },
             {
@@ -3830,7 +3940,7 @@
                 "last_commit": "2026-08-22T19:33:18Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24126
+                "stars": 24145
               }
             },
             {
@@ -3999,6 +4109,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "PSMRC",
+              "description": "Resource Pack Converter for Minecraft PS Vita Edition",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77294176,
+                "language": "JavaScript",
+                "last_commit": "2025-07-28T17:49:05Z",
+                "owner": "psiie",
+                "repo": "PSMRC-Node",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🕸️ Web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "VITAident",
               "description": "System/hardware identity tool for PS Vita",
               "children": [],
@@ -4089,6 +4221,50 @@
           "description": null,
           "node_type": "group",
           "title": "👣 Hack Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GMS Vita Port Instructions",
+              "description": "GameMaker Studio PS Vita Port Instructions",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 356022038,
+                "language": null,
+                "last_commit": "2026-01-20T11:17:00Z",
+                "owner": "hatoving",
+                "repo": "gms-vita-old-instructions",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🧶 RE Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Creating Cheats with PPSSPP",
+              "description": "Creating cheats with PPSSPP and CheatEngine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100705759,
+                "language": null,
+                "last_commit": "2022-10-03T06:19:42Z",
+                "owner": "raing3",
+                "repo": "psp-cheat-documentation",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "💲 Cheat Tutorials"
         }
       ],
       "title": "🗺️ Guides"
@@ -4139,6 +4315,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Retro BIOSes",
+              "description": "BIOS collection for RetroArch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261238984,
+                "language": "HTML",
+                "last_commit": "2026-08-24T09:25:59Z",
+                "owner": "Abdess",
+                "repo": "retrobios",
+                "stars": 6873
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📦 Emulation Necessaries"
+        },
         {
           "children": [
             {
@@ -4293,7 +4491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:35.079Z",
+    "last_updated": "2026-08-24T14:07:10.512Z",
     "original_repository": "MuxaJlbl4/Awesome-PlayStation-Vita",
     "original_repository_id": 274888596,
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
