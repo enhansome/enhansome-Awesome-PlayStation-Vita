@@ -17,7 +17,7 @@
                 "last_commit": "2021-02-18T07:30:49Z",
                 "owner": "TheOfficialFloW",
                 "repo": "NoNpDrm",
-                "stars": 912
+                "stars": 911
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-02-20T22:16:10Z",
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
-                "stars": 384
+                "stars": 383
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2023-06-25T01:11:13Z",
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
-                "stars": 1539
+                "stars": 1538
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-06-09T21:12:07Z",
                 "owner": "blastrock",
                 "repo": "pkgj",
-                "stars": 1311
+                "stars": 1312
               }
             },
             {
@@ -399,7 +399,7 @@
                 "last_commit": "2026-08-19T15:54:37Z",
                 "owner": "unveroleone",
                 "repo": "save-sync",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -576,7 +576,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1803
+                "stars": 1804
               }
             },
             {
@@ -588,10 +588,10 @@
                 "archived": false,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-23T09:35:18Z",
+                "last_commit": "2026-08-24T15:38:19Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 624
+                "stars": 623
               }
             },
             {
@@ -634,7 +634,7 @@
                 "last_commit": "2026-08-18T20:06:55Z",
                 "owner": "Cpasjuste",
                 "repo": "pemu",
-                "stars": 508
+                "stars": 510
               }
             },
             {
@@ -664,7 +664,7 @@
                 "last_commit": "2026-08-23T00:15:38Z",
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
-                "stars": 248
+                "stars": 249
               }
             }
           ],
@@ -731,7 +731,7 @@
                 "last_commit": "2026-08-09T23:13:37Z",
                 "owner": "isage",
                 "repo": "Adrenaline",
-                "stars": 328
+                "stars": 330
               }
             }
           ],
@@ -753,7 +753,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7309
+                "stars": 7313
               }
             }
           ],
@@ -1480,7 +1480,7 @@
                 "last_commit": "2023-06-25T01:11:13Z",
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
-                "stars": 1539
+                "stars": 1538
               }
             },
             {
@@ -2096,7 +2096,7 @@
                 "last_commit": "2026-08-20T18:19:35Z",
                 "owner": "jimbob4000",
                 "repo": "RetroFlow-Launcher",
-                "stars": 325
+                "stars": 326
               }
             },
             {
@@ -2772,7 +2772,7 @@
                 "last_commit": "2025-11-27T13:43:24Z",
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 807
+                "stars": 808
               }
             },
             {
@@ -2954,7 +2954,7 @@
                 "archived": false,
                 "id": 143932479,
                 "language": "C",
-                "last_commit": "2026-08-23T19:27:18Z",
+                "last_commit": "2026-08-24T18:50:48Z",
                 "owner": "Electry",
                 "repo": "VitaGrafix",
                 "stars": 443
@@ -2969,7 +2969,7 @@
                 "archived": false,
                 "id": 162761045,
                 "language": null,
-                "last_commit": "2026-08-15T21:57:59Z",
+                "last_commit": "2026-08-24T19:17:04Z",
                 "owner": "Electry",
                 "repo": "VitaGrafixPatchlist",
                 "stars": 209
@@ -3106,7 +3106,7 @@
                 "last_commit": "2024-01-07T05:28:42Z",
                 "owner": "r0ah",
                 "repo": "vitacheat",
-                "stars": 420
+                "stars": 421
               }
             },
             {
@@ -3121,7 +3121,7 @@
                 "last_commit": "2024-01-07T05:28:42Z",
                 "owner": "r0ah",
                 "repo": "vitacheat",
-                "stars": 420
+                "stars": 421
               }
             },
             {
@@ -3366,7 +3366,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1803
+                "stars": 1804
               }
             },
             {
@@ -3448,7 +3448,7 @@
                 "last_commit": "2026-08-23T05:24:18Z",
                 "owner": "Saramagrean",
                 "repo": "CWCheat-Database-Plus-",
-                "stars": 791
+                "stars": 792
               }
             },
             {
@@ -3608,10 +3608,10 @@
                 "archived": false,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-23T09:35:18Z",
+                "last_commit": "2026-08-24T15:38:19Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 624
+                "stars": 623
               }
             },
             {
@@ -3638,7 +3638,7 @@
                 "archived": false,
                 "id": 75743604,
                 "language": "Shell",
-                "last_commit": "2026-08-23T14:53:54Z",
+                "last_commit": "2026-08-24T19:17:21Z",
                 "owner": "vitasdk",
                 "repo": "vdpm",
                 "stars": 269
@@ -3813,7 +3813,7 @@
                 "last_commit": "2023-02-20T22:16:10Z",
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
-                "stars": 384
+                "stars": 383
               }
             },
             {
@@ -3940,7 +3940,7 @@
                 "last_commit": "2026-08-22T19:33:18Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24145
+                "stars": 24151
               }
             },
             {
@@ -4329,7 +4329,7 @@
                 "last_commit": "2026-08-24T09:25:59Z",
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 6873
+                "stars": 6875
               }
             }
           ],
@@ -4363,7 +4363,7 @@
                 "archived": false,
                 "id": 130765034,
                 "language": null,
-                "last_commit": "2026-08-23T16:48:24Z",
+                "last_commit": "2026-08-24T23:13:23Z",
                 "owner": "Vita3K",
                 "repo": "compatibility",
                 "stars": 196
@@ -4433,7 +4433,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1803
+                "stars": 1804
               }
             },
             {
@@ -4491,7 +4491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:10.512Z",
+    "last_updated": "2026-08-24T23:41:24.247Z",
     "original_repository": "MuxaJlbl4/Awesome-PlayStation-Vita",
     "original_repository_id": 274888596,
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
