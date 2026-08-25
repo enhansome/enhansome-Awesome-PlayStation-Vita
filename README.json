@@ -661,7 +661,7 @@
                 "archived": false,
                 "id": 774127916,
                 "language": "C++",
-                "last_commit": "2026-08-23T00:15:38Z",
+                "last_commit": "2026-08-25T00:59:49Z",
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
                 "stars": 249
@@ -753,7 +753,7 @@
                 "last_commit": "2026-08-23T02:35:16Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7313
+                "stars": 7315
               }
             }
           ],
@@ -876,7 +876,7 @@
                 "archived": false,
                 "id": 976168502,
                 "language": "C++",
-                "last_commit": "2026-08-24T01:46:11Z",
+                "last_commit": "2026-08-25T04:21:10Z",
                 "owner": "ScratchEverywhere",
                 "repo": "ScratchEverywhere",
                 "stars": 540
@@ -1003,7 +1003,7 @@
                 "archived": false,
                 "id": 65408453,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:19:24Z",
+                "last_commit": "2026-08-24T23:49:02Z",
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
                 "stars": 320
@@ -2096,7 +2096,7 @@
                 "last_commit": "2026-08-20T18:19:35Z",
                 "owner": "jimbob4000",
                 "repo": "RetroFlow-Launcher",
-                "stars": 326
+                "stars": 327
               }
             },
             {
@@ -2702,7 +2702,7 @@
                 "archived": false,
                 "id": 652522172,
                 "language": "C++",
-                "last_commit": "2026-08-23T13:33:00Z",
+                "last_commit": "2026-08-25T05:29:59Z",
                 "owner": "dragonflylee",
                 "repo": "switchfin",
                 "stars": 862
@@ -2787,7 +2787,7 @@
                 "last_commit": "2026-08-06T15:24:15Z",
                 "owner": "Day-OS",
                 "repo": "green-vita",
-                "stars": 107
+                "stars": 108
               }
             },
             {
@@ -3381,7 +3381,7 @@
                 "last_commit": "2024-09-15T09:34:55Z",
                 "owner": "TheOfficialFloW",
                 "repo": "gtasa_vita",
-                "stars": 432
+                "stars": 433
               }
             },
             {
@@ -3448,7 +3448,7 @@
                 "last_commit": "2026-08-23T05:24:18Z",
                 "owner": "Saramagrean",
                 "repo": "CWCheat-Database-Plus-",
-                "stars": 792
+                "stars": 793
               }
             },
             {
@@ -3940,7 +3940,7 @@
                 "last_commit": "2026-08-22T19:33:18Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24151
+                "stars": 24154
               }
             },
             {
@@ -4329,7 +4329,7 @@
                 "last_commit": "2026-08-24T09:25:59Z",
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 6875
+                "stars": 6880
               }
             }
           ],
@@ -4491,7 +4491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:41:24.247Z",
+    "last_updated": "2026-08-25T06:01:41.301Z",
     "original_repository": "MuxaJlbl4/Awesome-PlayStation-Vita",
     "original_repository_id": 274888596,
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
