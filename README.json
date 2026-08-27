@@ -576,7 +576,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1804
+                "stars": 1805
               }
             },
             {
@@ -649,7 +649,7 @@
                 "last_commit": "2026-08-22T13:44:00Z",
                 "owner": "libretro",
                 "repo": "libretro-super",
-                "stars": 471
+                "stars": 472
               }
             },
             {
@@ -664,7 +664,7 @@
                 "last_commit": "2026-08-25T00:59:49Z",
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
-                "stars": 249
+                "stars": 250
               }
             }
           ],
@@ -728,7 +728,7 @@
                 "archived": false,
                 "id": 640359193,
                 "language": "C",
-                "last_commit": "2026-08-27T03:20:33Z",
+                "last_commit": "2026-08-27T08:34:10Z",
                 "owner": "isage",
                 "repo": "Adrenaline",
                 "stars": 333
@@ -750,10 +750,10 @@
                 "archived": false,
                 "id": 27788471,
                 "language": "C",
-                "last_commit": "2026-08-23T02:35:16Z",
+                "last_commit": "2026-08-27T06:25:15Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7320
+                "stars": 7321
               }
             }
           ],
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-26T05:48:26Z",
                 "owner": "EasyRPG",
                 "repo": "Player",
-                "stars": 1217
+                "stars": 1216
               }
             },
             {
@@ -2504,7 +2504,7 @@
                 "last_commit": "2026-04-25T06:34:29Z",
                 "owner": "xfangfang",
                 "repo": "wiliwili",
-                "stars": 5440
+                "stars": 5441
               }
             },
             {
@@ -2772,7 +2772,7 @@
                 "last_commit": "2025-11-27T13:43:24Z",
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 808
+                "stars": 809
               }
             },
             {
@@ -3366,7 +3366,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1804
+                "stars": 1805
               }
             },
             {
@@ -3940,7 +3940,7 @@
                 "last_commit": "2026-08-26T17:16:39Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24181
+                "stars": 24185
               }
             },
             {
@@ -4329,7 +4329,7 @@
                 "last_commit": "2026-08-24T09:25:59Z",
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 6895
+                "stars": 6897
               }
             }
           ],
@@ -4433,7 +4433,7 @@
                 "last_commit": "2026-08-03T17:05:10Z",
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1804
+                "stars": 1805
               }
             },
             {
@@ -4491,9 +4491,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:33:34.347Z",
-    "original_repository": "MuxaJlbl4/Awesome-PlayStation-Vita",
-    "original_repository_id": 274888596,
+    "last_updated": "2026-08-27T11:24:30.415Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 274888596,
+      "language": "Markdown",
+      "last_commit": "2026-08-03T17:05:10Z",
+      "owner": "MuxaJlbl4",
+      "repo": "Awesome-PlayStation-Vita",
+      "stars": 1805
+    },
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
     "enhanced_repository": "enhansome/enhansome-Awesome-PlayStation-Vita",
     "enhanced_repository_description": null,
