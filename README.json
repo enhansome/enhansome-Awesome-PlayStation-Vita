@@ -18,7 +18,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "NoNpDrm",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "soarqin",
                 "repo": "finalhe",
                 "stars": 647
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
                 "stars": 383
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "xyzz",
                 "repo": "gamecard-microsd",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "SKGleba",
                 "repo": "enso_ex",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "SKGleba",
                 "repo": "0syscall6",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "frangarcj",
                 "repo": "NoPsmDrm",
                 "stars": 200
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "SKGleba",
                 "repo": "modoru",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -137,8 +145,9 @@
                 "last_commit": "2025-09-16T06:11:00Z",
                 "owner": "LiEnby",
                 "repo": "NoPspEmuDrm",
-                "stars": 133
-              }
+                "stars": 134
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "SKGleba",
                 "repo": "henlo_jb",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "SonicMastr",
                 "repo": "rePatch-reLoaded",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "SKGleba",
                 "repo": "psp2sdboot",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "SKGleba",
                 "repo": "psp2hfw",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "NoTrpDrm",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "MLTHaKu",
                 "repo": "MLTHaKu",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "LiEnby",
                 "repo": "vshPatch",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -265,7 +281,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
                 "stars": 1539
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -279,8 +296,9 @@
                 "last_commit": "2026-06-09T21:12:07Z",
                 "owner": "blastrock",
                 "repo": "pkgj",
-                "stars": 1314
-              }
+                "stars": 1315
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "ONElua",
                 "repo": "AutoPlugin2",
                 "stars": 570
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "d3m3vilurr",
                 "repo": "vita-savemgr",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "VitaDB-Downloader",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "robin994",
                 "repo": "NeoVitaDB-Downloader",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "robDevs",
                 "repo": "RepoHub",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "Electric1447",
                 "repo": "EasyVPK",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "GrapheneCt",
                 "repo": "VBackup",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "unveroleone",
                 "repo": "save-sync",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "Eyeman420",
                 "repo": "rePatch-Manager",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "hbRedirect",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -452,7 +480,8 @@
                 "owner": "TeamFAPS",
                 "repo": "PSVita-StorageMgr",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "SKGleba",
                 "repo": "yamt-vita",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "SKGleba",
                 "repo": "IMCUnlock",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "AuroraWright",
                 "repo": "yamt-vita-lite",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "DrinkingSubset",
                 "repo": "PS-Vita-Recovery-Menu-Project",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -534,7 +567,8 @@
                 "owner": "xyzz",
                 "repo": "gamecard-microsd",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "yifanlu",
                 "repo": "usbmc",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -577,7 +612,8 @@
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1805
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -588,11 +624,12 @@
                 "archived": false,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-25T14:28:57Z",
+                "last_commit": "2026-08-27T22:01:41Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "lpp-vita",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -634,8 +672,9 @@
                 "last_commit": "2026-08-18T20:06:55Z",
                 "owner": "Cpasjuste",
                 "repo": "pemu",
-                "stars": 510
-              }
+                "stars": 511
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -650,7 +689,8 @@
                 "owner": "libretro",
                 "repo": "libretro-super",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -665,7 +705,8 @@
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -686,8 +727,9 @@
                 "last_commit": "2024-01-13T08:39:34Z",
                 "owner": "TheOfficialFloW",
                 "repo": "Adrenaline",
-                "stars": 1698
-              }
+                "stars": 1700
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -702,7 +744,8 @@
                 "owner": "Hydr8gon",
                 "repo": "NooDS",
                 "stars": 1146
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -716,8 +759,9 @@
                 "last_commit": "2026-07-21T21:54:31Z",
                 "owner": "Grarak",
                 "repo": "DSVita",
-                "stars": 510
-              }
+                "stars": 511
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -732,7 +776,8 @@
                 "owner": "isage",
                 "repo": "Adrenaline",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -753,8 +798,9 @@
                 "last_commit": "2026-08-27T06:25:15Z",
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7321
-              }
+                "stars": 7325
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -775,8 +821,9 @@
                 "last_commit": "2024-01-13T08:39:34Z",
                 "owner": "TheOfficialFloW",
                 "repo": "Adrenaline",
-                "stars": 1698
-              }
+                "stars": 1700
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -791,7 +838,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "DaedalusX64-vitaGL",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -813,7 +861,8 @@
                 "owner": "rsn8887",
                 "repo": "uae4all2",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -828,7 +877,8 @@
                 "owner": "rsn8887",
                 "repo": "basiliskii-vita",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -843,7 +893,8 @@
                 "owner": "ammeir",
                 "repo": "vicevita",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -865,7 +916,8 @@
                 "owner": "EasyRPG",
                 "repo": "Player",
                 "stars": 1216
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -880,7 +932,8 @@
                 "owner": "ScratchEverywhere",
                 "repo": "ScratchEverywhere",
                 "stars": 540
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -895,7 +948,8 @@
                 "owner": "SonicMastr",
                 "repo": "godot-vita",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -909,8 +963,9 @@
                 "last_commit": "2026-08-13T21:19:25Z",
                 "owner": "Fewnity",
                 "repo": "Xenity-Engine",
-                "stars": 191
-              }
+                "stars": 192
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -925,7 +980,8 @@
                 "owner": "SonicMastr",
                 "repo": "renpy-vita",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -940,7 +996,8 @@
                 "owner": "Northfear",
                 "repo": "gemrb-vita",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1012,8 @@
                 "owner": "rsn8887",
                 "repo": "openbor",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1028,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "flare-engine",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -992,7 +1051,8 @@
                 "owner": "jtothebell",
                 "repo": "fake-08",
                 "stars": 863
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1067,8 @@
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1083,8 @@
                 "owner": "SonicMastr",
                 "repo": "cpython-vita",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1099,8 @@
                 "owner": "xerpi",
                 "repo": "VITA-8",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1059,7 +1122,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "yoyoloader_vita",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1081,7 +1145,8 @@
                 "owner": "xerpi",
                 "repo": "vita2hos",
                 "stars": 1256
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1161,8 @@
                 "owner": "xerpi",
                 "repo": "linux_vita",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1124,7 +1190,8 @@
                 "owner": "shev0k",
                 "repo": "EQVita",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1146,7 +1213,8 @@
                 "owner": "devnoname120",
                 "repo": "vitabright",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1229,8 @@
                 "owner": "ibrahim-dogan",
                 "repo": "vita-screen-test",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1183,7 +1252,8 @@
                 "owner": "nowrep",
                 "repo": "vita-shellbat",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1198,7 +1268,8 @@
                 "owner": "Electric1447",
                 "repo": "VITABatteryPlus",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1220,7 +1291,8 @@
                 "owner": "FMudanyali",
                 "repo": "BetterTrackPlug",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1307,8 @@
                 "owner": "GrapheneCt",
                 "repo": "PasteUnlock",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1250,7 +1323,8 @@
                 "owner": "joel16",
                 "repo": "dt2s-vita",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1272,7 +1346,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "VitaTweaks",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1362,8 @@
                 "owner": "SKGleba",
                 "repo": "VitaTools",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1309,7 +1385,8 @@
                 "owner": "SKGleba",
                 "repo": "iTLS-Enso",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1324,7 +1401,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "VitaTweaks",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1339,7 +1417,8 @@
                 "owner": "Electry",
                 "repo": "VitaPresence",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1433,8 @@
                 "owner": "cy33hc",
                 "repo": "vita-ezremote-client",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1449,8 @@
                 "owner": "elpendor",
                 "repo": "accountswitcher",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1384,7 +1465,8 @@
                 "owner": "yifanlu",
                 "repo": "netcheck_bypass",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1481,8 @@
                 "owner": "isage",
                 "repo": "vita-usb-ether",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1497,8 @@
                 "owner": "GrapheneCt",
                 "repo": "UserAgentSpoofer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1513,8 @@
                 "owner": "rompelhd",
                 "repo": "VitaSSH",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1444,7 +1529,8 @@
                 "owner": "DavisDev",
                 "repo": "Multidownload-Vita",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1459,7 +1545,8 @@
                 "owner": "lp1dev",
                 "repo": "vita_ports_scanner",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1481,7 +1568,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
                 "stars": 1539
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1496,7 +1584,8 @@
                 "owner": "SKGleba",
                 "repo": "PSP2-batteryFixer",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1600,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "FdFix",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1616,8 @@
                 "owner": "OsirizX",
                 "repo": "ShaRKF00D",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1540,8 +1631,9 @@
                 "last_commit": "2026-05-31T20:00:35Z",
                 "owner": "bythos14",
                 "repo": "kubridge",
-                "stars": 46
-              }
+                "stars": 47
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1648,8 @@
                 "owner": "Ibrahim778",
                 "repo": "USBDisable",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1664,8 @@
                 "owner": "Yoti",
                 "repo": "psv_trophfix",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1680,8 @@
                 "owner": "Yoti",
                 "repo": "psv_npsthmfxr",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1608,7 +1703,8 @@
                 "owner": "Electric1447",
                 "repo": "lcd-color-saturation",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1630,7 +1726,8 @@
                 "owner": "LiEnby",
                 "repo": "DolcePolce",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1652,7 +1749,8 @@
                 "owner": "SilentNightx",
                 "repo": "VitaDockPlus",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1667,7 +1765,8 @@
                 "owner": "CrashCortez",
                 "repo": "VitaDock-DIY",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1682,7 +1781,8 @@
                 "owner": "NekoMimiOfficial",
                 "repo": "VitaDockLite",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1710,7 +1810,8 @@
                 "owner": "MERLev",
                 "repo": "reVita",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1725,7 +1826,8 @@
                 "owner": "nowrep",
                 "repo": "vita-ps4linkcontrols",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1740,7 +1842,8 @@
                 "owner": "Scorpeg",
                 "repo": "Button-Swap",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1755,7 +1858,8 @@
                 "owner": "Avellea",
                 "repo": "VitaTester",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1770,7 +1874,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "WDNR",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1785,7 +1890,8 @@
                 "owner": "keltar",
                 "repo": "ps4linkcontrols-gui",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -1807,7 +1913,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "MiniVitaTV",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1822,7 +1929,8 @@
                 "owner": "xerpi",
                 "repo": "ds4vita",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1837,7 +1945,8 @@
                 "owner": "Hydr8gon",
                 "repo": "VitaControl",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1852,7 +1961,8 @@
                 "owner": "thcolin",
                 "repo": "gamepad-media-center-aggregator",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1867,7 +1977,8 @@
                 "owner": "MERLev",
                 "repo": "ds34vita",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1882,7 +1993,8 @@
                 "owner": "Ibrahim778",
                 "repo": "8BitVita",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1897,7 +2009,8 @@
                 "owner": "xerpi",
                 "repo": "viimote",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1912,7 +2025,8 @@
                 "owner": "Ibrahim778",
                 "repo": "X1Vita",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1927,7 +2041,8 @@
                 "owner": "isage",
                 "repo": "vixen",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1942,7 +2057,8 @@
                 "owner": "isage",
                 "repo": "tvikey",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1957,7 +2073,8 @@
                 "owner": "MERLev",
                 "repo": "ds4Touch",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1972,7 +2089,8 @@
                 "owner": "MERLev",
                 "repo": "DS34Motion",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -1987,7 +2105,8 @@
                 "owner": "isage",
                 "repo": "vixen-helper",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2009,7 +2128,8 @@
                 "owner": "xerpi",
                 "repo": "vitastick",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2024,7 +2144,8 @@
                 "owner": "carlelieser",
                 "repo": "vitapad",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2039,7 +2160,8 @@
                 "owner": "isage",
                 "repo": "vivid",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2054,7 +2176,8 @@
                 "owner": "mswlandi",
                 "repo": "vitakeyboard",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2069,7 +2192,8 @@
                 "owner": "xerpi",
                 "repo": "hidmouse",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2097,7 +2221,8 @@
                 "owner": "jimbob4000",
                 "repo": "RetroFlow-Launcher",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2112,7 +2237,8 @@
                 "owner": "ONElua",
                 "repo": "ONEMenu-for-PSVita",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2127,7 +2253,8 @@
                 "owner": "VitaHEX-Games",
                 "repo": "HexFlow-Launcher",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2142,7 +2269,8 @@
                 "owner": "cy33hc",
                 "repo": "vita-launcher",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2157,7 +2285,8 @@
                 "owner": "BlackSheepBoy69",
                 "repo": "HexFlow-Launcher-Unofficial-Custom",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2179,7 +2308,8 @@
                 "owner": "SKGleba",
                 "repo": "VitaTools",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2194,7 +2324,8 @@
                 "owner": "cxziaho",
                 "repo": "fontInstaller",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2216,7 +2347,8 @@
                 "owner": "Princess-of-Sleeping",
                 "repo": "psp2wpp",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2231,7 +2363,8 @@
                 "owner": "DRok17",
                 "repo": "QuickLaunch-Installer",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2246,7 +2379,8 @@
                 "owner": "PsArchive",
                 "repo": "QuickMenuPlus",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2261,7 +2395,8 @@
                 "owner": "ONElua",
                 "repo": "Shortcuts-Enhancer",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2276,7 +2411,8 @@
                 "owner": "GrapheneCt",
                 "repo": "TransparentImpose",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2291,7 +2427,8 @@
                 "owner": "Mithrenes",
                 "repo": "TEMA",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2313,7 +2450,8 @@
                 "owner": "DRok17",
                 "repo": "Multi-Builder",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2328,7 +2466,8 @@
                 "owner": "RawBOT",
                 "repo": "faq-to-vita-manual",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2343,7 +2482,8 @@
                 "owner": "Eywa186",
                 "repo": "FakeName-Changer-For-PSVita",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2371,7 +2511,8 @@
                 "owner": "xyzz",
                 "repo": "pngshot",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2386,7 +2527,8 @@
                 "owner": "joel16",
                 "repo": "VITAlbum",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2408,7 +2550,8 @@
                 "owner": "GrapheneCt",
                 "repo": "ElevenMPV-A",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2423,7 +2566,8 @@
                 "owner": "SKGleba",
                 "repo": "VITA-NoAutoAvls",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2438,7 +2582,8 @@
                 "owner": "Jyotiraditya-Samal",
                 "repo": "Vitawave",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2453,7 +2598,8 @@
                 "owner": "TheMorc",
                 "repo": "MilkyTrackerVita",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2468,7 +2614,8 @@
                 "owner": "Aztorius",
                 "repo": "vita-webradios",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2483,7 +2630,8 @@
                 "owner": "thexkey",
                 "repo": "vitaTrak",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2504,8 +2652,9 @@
                 "last_commit": "2026-04-25T06:34:29Z",
                 "owner": "xfangfang",
                 "repo": "wiliwili",
-                "stars": 5441
-              }
+                "stars": 5442
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2520,7 +2669,8 @@
                 "owner": "SonicMastr",
                 "repo": "Vita-Media-Player",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2535,7 +2685,8 @@
                 "owner": "theheroGAC",
                 "repo": "TubeVita",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2550,7 +2701,8 @@
                 "owner": "cnsldv",
                 "repo": "MediaImporter",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2565,7 +2717,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "Vita-Recorder",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2580,7 +2733,8 @@
                 "owner": "AntHJ",
                 "repo": "MVPlayer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2595,7 +2749,8 @@
                 "owner": "AntHJ",
                 "repo": "Boxset-Bubble-Creator",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2617,7 +2772,8 @@
                 "owner": "GrapheneCt",
                 "repo": "LiveRig",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2632,7 +2788,8 @@
                 "owner": "HarommelRabbid",
                 "repo": "BetterQRScanner",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2654,7 +2811,8 @@
                 "owner": "Creckeryop",
                 "repo": "NOBORU",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2669,7 +2827,8 @@
                 "owner": "pathway27",
                 "repo": "bookr-mod-vita",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2684,7 +2843,8 @@
                 "owner": "joel16",
                 "repo": "vitaPDF",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2705,8 +2865,9 @@
                 "last_commit": "2026-08-26T08:14:56Z",
                 "owner": "dragonflylee",
                 "repo": "switchfin",
-                "stars": 861
-              }
+                "stars": 862
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2720,8 +2881,9 @@
                 "last_commit": "2025-05-11T22:33:11Z",
                 "owner": "xerpi",
                 "repo": "vita-udcd-uvc",
-                "stars": 552
-              }
+                "stars": 553
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2736,7 +2898,8 @@
                 "owner": "GrapheneCt",
                 "repo": "NetStream",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2751,7 +2914,8 @@
                 "owner": "michal4132",
                 "repo": "cspot_vita",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2773,7 +2937,8 @@
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
                 "stars": 809
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2788,7 +2953,8 @@
                 "owner": "Day-OS",
                 "repo": "green-vita",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2803,7 +2969,8 @@
                 "owner": "mauricio-gg",
                 "repo": "vitaki-vitarps5",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2831,7 +2998,8 @@
                 "owner": "Electry",
                 "repo": "PSVshell",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2846,7 +3014,8 @@
                 "owner": "GrapheneCt",
                 "repo": "PSVshellPlus",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2861,7 +3030,8 @@
                 "owner": "GrapheneCt",
                 "repo": "CapUnlocker",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2876,7 +3046,8 @@
                 "owner": "Electry",
                 "repo": "NoPowerLimitsVita",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2891,7 +3062,8 @@
                 "owner": "GrapheneCt",
                 "repo": "LowMemMode",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2906,7 +3078,8 @@
                 "owner": "GrapheneCt",
                 "repo": "ThreadOptimizer",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2921,7 +3094,8 @@
                 "owner": "GrapheneCt",
                 "repo": "Affinity-Changer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2936,7 +3110,8 @@
                 "owner": "SilentNightx",
                 "repo": "PSV-VSH-Menu",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -2958,7 +3133,8 @@
                 "owner": "Electry",
                 "repo": "VitaGrafix",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2973,7 +3149,8 @@
                 "owner": "Electry",
                 "repo": "VitaGrafixPatchlist",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -2988,7 +3165,8 @@
                 "owner": "Kirezar",
                 "repo": "VitaGrafixConfigurator",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3003,7 +3181,8 @@
                 "owner": "MuxaJlbl4",
                 "repo": "Vita-Nearest-Neighbour",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3018,7 +3197,8 @@
                 "owner": "swosho",
                 "repo": "Vita-Bilinear",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3033,7 +3213,8 @@
                 "owner": "junminlee2004",
                 "repo": "novsync",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3048,7 +3229,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "Framecapper",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3070,7 +3252,8 @@
                 "owner": "ONElua",
                 "repo": "TrophyManager",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3085,7 +3268,8 @@
                 "owner": "FMudanyali",
                 "repo": "TrophyShot",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3107,7 +3291,8 @@
                 "owner": "r0ah",
                 "repo": "vitacheat",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3122,7 +3307,8 @@
                 "owner": "r0ah",
                 "repo": "vitacheat",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3137,7 +3323,8 @@
                 "owner": "ShumnoT",
                 "repo": "VitaCheatDatabase",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3152,7 +3339,8 @@
                 "owner": "bucanero",
                 "repo": "apollo-vita",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3167,7 +3355,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "dejavu",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3182,7 +3371,8 @@
                 "owner": "LiEnby",
                 "repo": "ScoreHax",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3210,7 +3400,8 @@
                 "owner": "bythos14",
                 "repo": "sm64-vita",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3225,7 +3416,8 @@
                 "owner": "junminlee2004",
                 "repo": "GR544P",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3240,7 +3432,8 @@
                 "owner": "GrapheneCt",
                 "repo": "ThreadOptimizer",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3255,7 +3448,8 @@
                 "owner": "illusionyy",
                 "repo": "console-game-patches",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3270,7 +3464,8 @@
                 "owner": "justalex95",
                 "repo": "Borderlands-2-Vita-TweakyBlinders-config",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3285,7 +3480,8 @@
                 "owner": "Electry",
                 "repo": "NFSMW_Settings",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3300,7 +3496,8 @@
                 "owner": "zarroboogs",
                 "repo": "p4g-patches",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3315,7 +3512,8 @@
                 "owner": "isage",
                 "repo": "alienhook",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3330,7 +3528,8 @@
                 "owner": "zarroboogs",
                 "repo": "pXd-patches",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3345,7 +3544,8 @@
                 "owner": "MuxaJlbl4",
                 "repo": "DN3DME-Vita-Filter-Fix",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3367,7 +3567,8 @@
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1805
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3381,8 +3582,9 @@
                 "last_commit": "2024-09-15T09:34:55Z",
                 "owner": "TheOfficialFloW",
                 "repo": "gtasa_vita",
-                "stars": 433
-              }
+                "stars": 434
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3397,7 +3599,8 @@
                 "owner": "fgsfdsfgs",
                 "repo": "max_vita",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3412,7 +3615,8 @@
                 "owner": "StonedModder",
                 "repo": "The-Binding-of-Isaac-Mod-Conversion-Kit",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3427,7 +3631,8 @@
                 "owner": "ARandomGuy231",
                 "repo": "p4gvitamodports",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3448,8 +3653,9 @@
                 "last_commit": "2026-08-23T05:24:18Z",
                 "owner": "Saramagrean",
                 "repo": "CWCheat-Database-Plus-",
-                "stars": 796
-              }
+                "stars": 795
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3464,7 +3670,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "GePatch",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3479,7 +3686,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "RemasteredControls",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3494,7 +3702,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "GTANativeRes",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3509,7 +3718,8 @@
                 "owner": "Freakler",
                 "repo": "psp-camera_patch_lite",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3524,7 +3734,8 @@
                 "owner": "avetis-dev",
                 "repo": "PSPAchievementsSystem",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3539,7 +3750,8 @@
                 "owner": "Kethen",
                 "repo": "aemu",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3554,7 +3766,8 @@
                 "owner": "raing3",
                 "repo": "tempar",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3569,7 +3782,8 @@
                 "owner": "isage",
                 "repo": "adrenaline_usb_enabler",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3584,7 +3798,8 @@
                 "owner": "adamfisher90",
                 "repo": "ResistancePSP_Infected",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3608,11 +3823,12 @@
                 "archived": false,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-25T14:28:57Z",
+                "last_commit": "2026-08-27T22:01:41Z",
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3627,7 +3843,8 @@
                 "owner": "SKGleba",
                 "repo": "VitaDeploy",
                 "stars": 326
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3638,11 +3855,12 @@
                 "archived": false,
                 "id": 75743604,
                 "language": "Shell",
-                "last_commit": "2026-08-26T21:08:41Z",
+                "last_commit": "2026-08-27T17:06:37Z",
                 "owner": "vitasdk",
                 "repo": "vdpm",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3657,7 +3875,8 @@
                 "owner": "GrapheneCt",
                 "repo": "PVR_PSP2",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3672,7 +3891,8 @@
                 "owner": "v-atamanenko",
                 "repo": "soloader-boilerplate",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3687,7 +3907,8 @@
                 "owner": "GlitcherOG",
                 "repo": "PSVita-Unity-Utilities",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3702,7 +3923,8 @@
                 "owner": "v-atamanenko",
                 "repo": "FalsoJNI",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3717,7 +3939,8 @@
                 "owner": "GrapheneCt",
                 "repo": "VitaMonoLoader",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3732,7 +3955,8 @@
                 "owner": "Ibrahim778",
                 "repo": "QuickMenuReborn",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3747,7 +3971,8 @@
                 "owner": "GrapheneCt",
                 "repo": "libAppSettings",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3762,7 +3987,8 @@
                 "owner": "GrapheneCt",
                 "repo": "vitaAL",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3777,7 +4003,8 @@
                 "owner": "GrapheneCt",
                 "repo": "TriGL",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3792,7 +4019,8 @@
                 "owner": "isage",
                 "repo": "pppp-vita",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3814,7 +4042,8 @@
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
                 "stars": 383
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3829,7 +4058,8 @@
                 "owner": "LioMajor",
                 "repo": "MaiDumpToolEN",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3844,7 +4074,8 @@
                 "owner": "aerosoul94",
                 "repo": "ida_gel",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3859,7 +4090,8 @@
                 "owner": "xerpi",
                 "repo": "GhidraVitaLoader",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3874,7 +4106,8 @@
                 "owner": "DaveeFTW",
                 "repo": "kvdb",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3889,7 +4122,8 @@
                 "owner": "devnoname120",
                 "repo": "RegistryEditorMOD",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3904,7 +4138,8 @@
                 "owner": "computerman00",
                 "repo": "BinaryNinja-PSVitaLoader",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3919,7 +4154,8 @@
                 "owner": "LinkOFF7",
                 "repo": "vitaldr",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -3937,11 +4173,12 @@
                 "archived": false,
                 "id": 41215835,
                 "language": "C",
-                "last_commit": "2026-08-26T17:16:39Z",
+                "last_commit": "2026-08-28T06:21:13Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24185
-              }
+                "stars": 24194
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3956,7 +4193,8 @@
                 "owner": "codestation",
                 "repo": "qcma",
                 "stars": 665
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3971,7 +4209,8 @@
                 "owner": "lusid1",
                 "repo": "pkg2zip",
                 "stars": 279
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -3986,7 +4225,8 @@
                 "owner": "LiEnby",
                 "repo": "GayMaker",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4001,7 +4241,8 @@
                 "owner": "LiEnby",
                 "repo": "chovy-sign",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4016,7 +4257,8 @@
                 "owner": "Yohoki",
                 "repo": "TempAR-Vita",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4031,7 +4273,8 @@
                 "owner": "RikuKH3",
                 "repo": "unpkg_vita",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4046,7 +4289,8 @@
                 "owner": "SKGleba",
                 "repo": "PSP2-CBAnim",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4061,7 +4305,8 @@
                 "owner": "LiEnby",
                 "repo": "ContentServer",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4083,7 +4328,8 @@
                 "owner": "IllusionMan1212",
                 "repo": "NPS-Browser",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4098,7 +4344,8 @@
                 "owner": "Electric1447",
                 "repo": "VHBB-Android",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4120,7 +4367,8 @@
                 "owner": "psiie",
                 "repo": "PSMRC-Node",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4142,7 +4390,8 @@
                 "owner": "joel16",
                 "repo": "VITAident",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4157,7 +4406,8 @@
                 "owner": "Electry",
                 "repo": "VGi",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4172,7 +4422,8 @@
                 "owner": "Freakler",
                 "repo": "vita-PSVident",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4187,7 +4438,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "ViBeS",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4215,7 +4467,8 @@
                 "owner": "SKGleba",
                 "repo": "henlo_jb",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4237,7 +4490,8 @@
                 "owner": "hatoving",
                 "repo": "gms-vita-old-instructions",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4259,7 +4513,8 @@
                 "owner": "raing3",
                 "repo": "psp-cheat-documentation",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4287,7 +4542,8 @@
                 "owner": "xdanieldzd",
                 "repo": "forcelang",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4302,7 +4558,8 @@
                 "owner": "v-atamanenko",
                 "repo": "vitohlyad",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4329,8 +4586,9 @@
                 "last_commit": "2026-08-24T09:25:59Z",
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 6897
-              }
+                "stars": 6901
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4352,7 +4610,8 @@
                 "owner": "TheOfficialFloW",
                 "repo": "GePatch",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4363,11 +4622,12 @@
                 "archived": false,
                 "id": 130765034,
                 "language": null,
-                "last_commit": "2026-08-26T21:27:36Z",
+                "last_commit": "2026-08-27T11:53:21Z",
                 "owner": "Vita3K",
                 "repo": "compatibility",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4382,7 +4642,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "DaedalusX64-vitaGL-Compatibility",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4397,7 +4658,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "YoYo-Loader-Vita-Compatibility",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4412,7 +4674,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "flycast-vita-compatibility-list",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4434,7 +4697,8 @@
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1805
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4449,7 +4713,8 @@
                 "owner": "ONElua",
                 "repo": "AutoPlugin2",
                 "stars": 570
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4464,7 +4729,8 @@
                 "owner": "Rinnegatamante",
                 "repo": "Android2Vita-Candidate-Ports-List",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             },
             {
               "node_type": "item",
@@ -4479,7 +4745,8 @@
                 "owner": "vita-nuova",
                 "repo": "bounties",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
             }
           ],
           "description": null,
@@ -4491,7 +4758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:30.415Z",
+    "last_updated": "2026-08-28T06:57:45.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 274888596,
