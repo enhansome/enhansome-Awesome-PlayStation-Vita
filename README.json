@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that allows you to bypass DRM protection on any PS Vita content",
+                "homepage": null,
                 "id": 103635453,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-18T07:30:49Z",
+                "open_issues": 7,
                 "owner": "TheOfficialFloW",
                 "repo": "NoNpDrm",
-                "stars": 912
+                "stars": 912,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Final h-encore, a tool to push h-encore exploit for PS VITA/PS TV automatically",
+                "homepage": null,
                 "id": 140287921,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-05T18:07:48Z",
+                "open_issues": 75,
                 "owner": "soarqin",
                 "repo": "finalhe",
-                "stars": 647
+                "stars": 647,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bundle of RE tools for analyzing and modding PSVita OS",
+                "homepage": null,
                 "id": 120500512,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-20T22:16:10Z",
+                "open_issues": 14,
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -60,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "microSD adapter for PlayStation Vita",
+                "homepage": null,
                 "id": 95903923,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-28T21:59:34Z",
+                "open_issues": 10,
                 "owner": "xyzz",
                 "repo": "gamecard-microsd",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -76,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Untethered jailbreak and CFW loader for PlayStation Vita/TV units on firmware 3.65",
+                "homepage": null,
                 "id": 151975350,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-23T00:16:45Z",
+                "open_issues": 6,
                 "owner": "SKGleba",
                 "repo": "enso_ex",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -92,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A kernel module that patches Playstation Vita's lv0's secure_kernel's syscall 6",
+                "homepage": null,
                 "id": 224504720,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-04-15T08:22:43Z",
+                "open_issues": 0,
                 "owner": "SKGleba",
                 "repo": "0syscall6",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -108,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 106919633,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-31T08:09:20Z",
+                "open_issues": 12,
                 "owner": "frangarcj",
                 "repo": "NoPsmDrm",
-                "stars": 200
+                "stars": 200,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -124,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vita downgrader (portable edition)",
+                "homepage": null,
                 "id": 205650976,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-10-27T16:19:43Z",
+                "open_issues": 0,
                 "owner": "SKGleba",
                 "repo": "modoru",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -140,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bypass DRM Check in PspEmu on PSVita",
+                "homepage": null,
                 "id": 654985463,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-16T06:11:00Z",
+                "open_issues": 5,
                 "owner": "LiEnby",
                 "repo": "NoPspEmuDrm",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -156,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "henlo-based jailbreak for Playstation Vita/TV running firmware 3.65+",
+                "homepage": null,
                 "id": 583045992,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-02-18T19:01:39Z",
+                "open_issues": 5,
                 "owner": "SKGleba",
                 "repo": "henlo_jb",
-                "stars": 96
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -172,12 +222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The rePatch plugin with homebrew app0: and Data migration support (Move gamedata to different storage) ",
+                "homepage": null,
                 "id": 358178247,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-04-24T21:13:52Z",
+                "open_issues": 4,
                 "owner": "SonicMastr",
                 "repo": "rePatch-reLoaded",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -188,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools and guides for achieving code execution in Playstation Vita/TV BootROM's \"SD boot mode\"",
+                "homepage": null,
                 "id": 729610604,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-12-26T05:37:58Z",
+                "open_issues": 0,
                 "owner": "SKGleba",
                 "repo": "psp2sdboot",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -204,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hybrid Firmware toolset for Playstation Vita",
+                "homepage": null,
                 "id": 256145479,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-10T16:35:47Z",
+                "open_issues": 2,
                 "owner": "SKGleba",
                 "repo": "psp2hfw",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -220,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin that enables official trophies pack usage with sceNpTrophy for homebrews.",
+                "homepage": null,
                 "id": 682955366,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-09-05T12:00:28Z",
+                "open_issues": 0,
                 "owner": "Rinnegatamante",
                 "repo": "NoTrpDrm",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -236,12 +306,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Información sobre MLTHaKu/Information about MLTHaKu",
+                "homepage": "http://mlthaku.tk/",
                 "id": 101335217,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-09-13T23:31:33Z",
+                "open_issues": 0,
                 "owner": "MLTHaKu",
                 "repo": "MLTHaKu",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "henkaku",
+                  "mlthaku",
+                  "psvita",
+                  "scene"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -252,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows you to patch \"vs0\" by writing files to ux0:/vshPatch via a FIOS2 Overlay",
+                "homepage": null,
                 "id": 395972141,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-08-14T10:37:51Z",
+                "open_issues": 0,
                 "owner": "LiEnby",
                 "repo": "vshPatch",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -275,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-functional file manager for PS Vita",
+                "homepage": null,
                 "id": 66739335,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-25T01:11:13Z",
+                "open_issues": 110,
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
-                "stars": 1539
+                "stars": 1539,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -291,12 +381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pkg download & installation directly on Vita",
+                "homepage": null,
                 "id": 124300424,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-09T21:12:07Z",
+                "open_issues": 80,
                 "owner": "blastrock",
                 "repo": "pkgj",
-                "stars": 1315
+                "stars": 1316,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -307,12 +402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next AutoPlugin 2",
+                "homepage": null,
                 "id": 244262267,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-23T02:19:50Z",
+                "open_issues": 5,
                 "owner": "ONElua",
                 "repo": "AutoPlugin2",
-                "stars": 570
+                "stars": 570,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -323,12 +423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dump / Restore for PSVita game save",
+                "homepage": null,
                 "id": 68198103,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-15T16:46:23Z",
+                "open_issues": 14,
                 "owner": "d3m3vilurr",
                 "repo": "vita-savemgr",
-                "stars": 380
+                "stars": 380,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -339,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official VitaDB client for PSVITA/PSTV.",
+                "homepage": null,
                 "id": 532985271,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T18:40:01Z",
+                "open_issues": 7,
                 "owner": "Rinnegatamante",
                 "repo": "VitaDB-Downloader",
-                "stars": 289
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -355,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official NeoVitaDB client for PSVITA/PSTV. Fork of original project of VitaDB-Downloader",
+                "homepage": null,
                 "id": 1319530691,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T07:02:35Z",
+                "open_issues": 3,
                 "owner": "robin994",
                 "repo": "NeoVitaDB-Downloader",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -371,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View Github users, repos, and releases from a ps-vita",
+                "homepage": null,
                 "id": 197634301,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2020-01-08T00:03:01Z",
+                "open_issues": 1,
                 "owner": "robDevs",
                 "repo": "RepoHub",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -387,12 +507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A homebrew app for the PSVITA that allows to easily download vpks from vitadb.",
+                "homepage": null,
                 "id": 271090344,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-14T22:25:15Z",
+                "open_issues": 2,
                 "owner": "Electric1447",
                 "repo": "EasyVPK",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -403,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 461002295,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-14T15:18:10Z",
+                "open_issues": 4,
                 "owner": "GrapheneCt",
                 "repo": "VBackup",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -419,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Save sync for modded handhelds. Self-hosted server, Rust client, cross-platform desktop app.",
+                "homepage": "https://www.rinnegatamante.eu/vitadb/#/info/1418",
                 "id": 1276266191,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T15:54:37Z",
+                "open_issues": 4,
                 "owner": "unveroleone",
                 "repo": "save-sync",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -435,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to manage rePatch game",
+                "homepage": null,
                 "id": 469652129,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-05T07:04:39Z",
+                "open_issues": 0,
                 "owner": "Eyeman420",
                 "repo": "rePatch-Manager",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -451,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redirects ux0 usage to other partitions.",
+                "homepage": null,
                 "id": 357558125,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-15T08:59:15Z",
+                "open_issues": 0,
                 "owner": "Rinnegatamante",
                 "repo": "hbRedirect",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -474,12 +619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kernel plugin that automatically mounts/redirects any storage device on any mount points you want",
+                "homepage": null,
                 "id": 124272746,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-29T18:20:06Z",
+                "open_issues": 33,
                 "owner": "TeamFAPS",
                 "repo": "PSVita-StorageMgr",
-                "stars": 401
+                "stars": 401,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -490,12 +640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another (re)mount tool for PSP2 Vita and Dolce",
+                "homepage": null,
                 "id": 191054246,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-23T02:49:50Z",
+                "open_issues": 5,
                 "owner": "SKGleba",
                 "repo": "yamt-vita",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -506,12 +661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playstation Vita/TV eMMC partitioning tool",
+                "homepage": null,
                 "id": 140555404,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-07-19T16:25:58Z",
+                "open_issues": 1,
                 "owner": "SKGleba",
                 "repo": "IMCUnlock",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -522,12 +682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another (re)mount tool kernel plugin for PS Vita/PS TV",
+                "homepage": null,
                 "id": 225967721,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-12-05T00:58:30Z",
+                "open_issues": 0,
                 "owner": "AuroraWright",
                 "repo": "yamt-vita-lite",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -538,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A diagnostic and recovery environment for the PlayStation Vita with plugin repair tools, storage diagnostics, and planned boot-time recovery via R trigger.",
+                "homepage": null,
                 "id": 1176231607,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-03-23T19:20:35Z",
+                "open_issues": 2,
                 "owner": "DrinkingSubset",
                 "repo": "PS-Vita-Recovery-Menu-Project",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -561,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "microSD adapter for PlayStation Vita",
+                "homepage": null,
                 "id": 95903923,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-28T21:59:34Z",
+                "open_issues": 10,
                 "owner": "xyzz",
                 "repo": "gamecard-microsd",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -577,12 +752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB storage as Vita memory card",
+                "homepage": null,
                 "id": 94607532,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-12-30T18:03:57Z",
+                "open_issues": 12,
                 "owner": "yifanlu",
                 "repo": "usbmc",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -606,12 +786,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of awesome stuff for PlayStation Vita",
+                "homepage": null,
                 "id": 274888596,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-08-03T17:05:10Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1805
+                "stars": 1806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "playstation",
+                  "playstation-vita",
+                  "ps-vita",
+                  "pstv",
+                  "psv",
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -622,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openGL wrapper for PSVITA.",
+                "homepage": null,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-27T22:01:41Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T13:26:12Z",
+                "open_issues": 2,
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 625
+                "stars": 625,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -638,12 +838,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua Player Plus for PSVITA. Documentation on: http://rinnegatamante.github.io/lpp-vita/",
+                "homepage": null,
                 "id": 41816603,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-18T12:30:58Z",
+                "open_issues": 18,
                 "owner": "Rinnegatamante",
                 "repo": "lpp-vita",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "interpreter",
+                  "lua-player",
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -667,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 150459712,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T20:06:55Z",
+                "open_issues": 94,
                 "owner": "Cpasjuste",
                 "repo": "pemu",
-                "stars": 511
+                "stars": 511,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -683,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super repo for other libretro projects. Fetches, builds and installs.",
+                "homepage": null,
                 "id": 2695844,
                 "language": "Shell",
-                "last_commit": "2026-08-22T13:44:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:05:21Z",
+                "open_issues": 96,
                 "owner": "libretro",
                 "repo": "libretro-super",
-                "stars": 472
+                "stars": 472,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -699,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "another emulator frontend for PS Vita",
+                "homepage": null,
                 "id": 774127916,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:59:49Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-29T02:14:34Z",
+                "open_issues": 101,
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -722,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Firmware 6.61 Adrenaline for the PSP Emulator",
+                "homepage": null,
                 "id": 88371341,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-13T08:39:34Z",
+                "open_issues": 70,
                 "owner": "TheOfficialFloW",
                 "repo": "Adrenaline",
-                "stars": 1700
+                "stars": 1700,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -738,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A (hopefully!) speedy DS emulator",
+                "homepage": null,
                 "id": 188506173,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-09T19:30:22Z",
+                "open_issues": 98,
                 "owner": "Hydr8gon",
                 "repo": "NooDS",
-                "stars": 1146
+                "stars": 1147,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -754,12 +989,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extremely fast NDS Emulator for ARM32/PSVita",
+                "homepage": null,
                 "id": 717899440,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T21:54:31Z",
+                "open_issues": 68,
                 "owner": "Grarak",
                 "repo": "DSVita",
-                "stars": 511
+                "stars": 512,
+                "topics": [
+                  "arm32",
+                  "emulation",
+                  "jit",
+                  "nds",
+                  "neon",
+                  "opengles",
+                  "psvita",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -770,12 +1019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom 6.61 PSP Firmware for the PSVita PSP Emulator",
+                "homepage": "https://adrenaline.sarcasticat.com/docs/",
                 "id": 640359193,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T08:34:10Z",
+                "open_issues": 40,
                 "owner": "isage",
                 "repo": "Adrenaline",
-                "stars": 333
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -793,12 +1047,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mGBA Game Boy Advance Emulator",
+                "homepage": "https://mgba.io/",
                 "id": 27788471,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T06:25:15Z",
+                "open_issues": 850,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7325
+                "stars": 7329,
+                "topics": [
+                  "emulator",
+                  "game-boy",
+                  "game-boy-advance",
+                  "game-boy-color",
+                  "game-boy-emulator",
+                  "gameboy",
+                  "gameboy-advance",
+                  "gameboy-advance-emulator",
+                  "gameboy-color-emulator",
+                  "gameboy-emulator",
+                  "gba",
+                  "mgba"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -816,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Firmware 6.61 Adrenaline for the PSP Emulator",
+                "homepage": null,
                 "id": 88371341,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-13T08:39:34Z",
+                "open_issues": 70,
                 "owner": "TheOfficialFloW",
                 "repo": "Adrenaline",
-                "stars": 1700
+                "stars": 1700,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -832,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Daedalus X64 port for PSVITA through vitaGL.",
+                "homepage": null,
                 "id": 254365512,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-21T21:52:45Z",
+                "open_issues": 27,
                 "owner": "Rinnegatamante",
                 "repo": "DaedalusX64-vitaGL",
-                "stars": 426
+                "stars": 426,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -855,12 +1137,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and optimized Amiga Emulator for Vita and Switch",
+                "homepage": null,
                 "id": 76691391,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2024-03-23T05:59:01Z",
+                "open_issues": 24,
                 "owner": "rsn8887",
                 "repo": "uae4all2",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "psvita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -871,12 +1160,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mac Emulator for Vita",
+                "homepage": null,
                 "id": 110305582,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2021-04-06T17:06:05Z",
+                "open_issues": 0,
                 "owner": "rsn8887",
                 "repo": "basiliskii-vita",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "psvita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -887,12 +1183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Commodore 64 emulator for PlayStation Vita.",
+                "homepage": null,
                 "id": 247891424,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-11T07:32:31Z",
+                "open_issues": 1,
                 "owner": "ammeir",
                 "repo": "vicevita",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -910,12 +1211,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RPG Maker 2000/2003 and EasyRPG games interpreter",
+                "homepage": "https://easyrpg.org/player/",
                 "id": 3297519,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T05:48:26Z",
+                "open_issues": 437,
                 "owner": "EasyRPG",
                 "repo": "Player",
-                "stars": 1216
+                "stars": 1218,
+                "topics": [
+                  "3ds-homebrew",
+                  "cross-platform",
+                  "game-2d",
+                  "game-development",
+                  "game-engine",
+                  "game-interpreter",
+                  "psvita",
+                  "rm2k",
+                  "rm2k3",
+                  "rpg-engine",
+                  "rpg-maker",
+                  "rpg-maker-2000",
+                  "rpg-maker-2003",
+                  "rpg-maker-2k",
+                  "rpg-maker-2k3",
+                  "rpgmaker",
+                  "rpgmaker2000",
+                  "rpgmaker2003",
+                  "switch-homebrew",
+                  "wii-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -926,12 +1253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom Scratch Runtime made in C++!",
+                "homepage": "https://scratcheverywhere.github.io",
                 "id": 976168502,
                 "language": "C++",
-                "last_commit": "2026-08-27T00:32:28Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-29T04:15:18Z",
+                "open_issues": 58,
                 "owner": "ScratchEverywhere",
                 "repo": "ScratchEverywhere",
-                "stars": 540
+                "stars": 540,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -942,12 +1274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Godot Engine Vita Port based off of Stary2001 and EIREXE Contributions utilizing PVR_PSP2",
+                "homepage": "https://godotengine.org",
                 "id": 416131263,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-07-12T00:23:07Z",
+                "open_issues": 21,
                 "owner": "SonicMastr",
                 "repo": "godot-vita",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -958,12 +1295,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSP, PsVita and PS3 game engine",
+                "homepage": "https://fewnity.wordpress.com/",
                 "id": 552880427,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-13T21:19:25Z",
+                "open_issues": 2,
                 "owner": "Fewnity",
                 "repo": "Xenity-Engine",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "cross-platform",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "playstation"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -974,12 +1322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Native Ren'Py Visual Novel Port for the PSVita",
+                "homepage": null,
                 "id": 389542611,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-05-14T20:24:47Z",
+                "open_issues": 8,
                 "owner": "SonicMastr",
                 "repo": "renpy-vita",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -990,12 +1343,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Engine Made with preRendered Background",
+                "homepage": "https://gemrb.org/",
                 "id": 283960805,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2022-07-11T20:58:26Z",
+                "open_issues": 0,
                 "owner": "Northfear",
                 "repo": "gemrb-vita",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "ps-vita",
+                  "psvita",
+                  "psvita-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1006,12 +1368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenBOR is the ultimate 2D side scrolling engine for beat em' ups, shooters, and more! ",
+                "homepage": "http://www.chronocrash.com",
                 "id": 134448078,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-10-02T23:45:20Z",
+                "open_issues": 0,
                 "owner": "rsn8887",
                 "repo": "openbor",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1022,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free/Libre Action Roleplaying Engine (engine only)",
+                "homepage": "http://flarerpg.org/",
                 "id": 686344115,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-08T13:55:28Z",
+                "open_issues": 0,
                 "owner": "Rinnegatamante",
                 "repo": "flare-engine",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1045,12 +1417,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pico-8 player/emulator for console homebrew",
+                "homepage": null,
                 "id": 254789678,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-13T18:53:08Z",
+                "open_issues": 60,
                 "owner": "jtothebell",
                 "repo": "fake-08",
-                "stars": 863
+                "stars": 863,
+                "topics": [
+                  "3ds-homebrew",
+                  "fantasy-console",
+                  "homebrew",
+                  "pico-8",
+                  "pico8",
+                  "ps-vita",
+                  "psvita",
+                  "psvita-homebrew",
+                  "switch",
+                  "switch-homebrew",
+                  "vita",
+                  "wii-u",
+                  "wii-u-homebrew",
+                  "wiiu"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1061,12 +1453,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SquirrelJME is a Java ME 8 Virtual Machine for embedded and Internet of Things devices. It has the ultimate goal of being 99.9% compatible with the Java ME standard.",
+                "homepage": "https://squirreljme.cc/",
                 "id": 65408453,
                 "language": "Java",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-24T23:49:02Z",
+                "open_issues": 61,
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
-                "stars": 320
+                "stars": 321,
+                "topics": [
+                  "c",
+                  "compiler",
+                  "embedded",
+                  "iot",
+                  "j2me",
+                  "j2me-platform",
+                  "java",
+                  "java-me",
+                  "javame",
+                  "jvm",
+                  "libretro",
+                  "native",
+                  "ratufacoat",
+                  "retroarch",
+                  "squirreljme"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1077,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 3.11.2 and 2.7.18 Interpreters and Libraries for the PSVita",
+                "homepage": "https://www.python.org/",
                 "id": 331428320,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-11T07:34:35Z",
+                "open_issues": 1,
                 "owner": "SonicMastr",
                 "repo": "cpython-vita",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1093,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CHIP-8 emulator for the PSVita",
+                "homepage": null,
                 "id": 37914465,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-03-04T08:41:24Z",
+                "open_issues": 0,
                 "owner": "xerpi",
                 "repo": "VITA-8",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1116,12 +1539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Loader/Wrapper for Android's YoYo Runner for PSVita.",
+                "homepage": null,
                 "id": 478217717,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-14T08:38:16Z",
+                "open_issues": 18,
                 "owner": "Rinnegatamante",
                 "repo": "yoyoloader_vita",
-                "stars": 214
+                "stars": 214,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1139,12 +1567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer",
+                "homepage": "https://discord.gg/Z9kAsBqkbx",
                 "id": 457052429,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-06-07T01:37:42Z",
+                "open_issues": 4,
                 "owner": "xerpi",
                 "repo": "vita2hos",
-                "stars": 1256
+                "stars": 1256,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1155,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Linux kernel source tree (PlayStation Vita port)",
+                "homepage": null,
                 "id": 162871102,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-06T01:15:31Z",
+                "open_issues": 6,
                 "owner": "xerpi",
                 "repo": "linux_vita",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1184,12 +1622,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎵 System-wide EQ kernel plugin and app for PS Vita built to improve the console’s audio, featuring presets, live tuning, and support for speakers, wired headphones, and Bluetooth.",
+                "homepage": null,
                 "id": 1121372007,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-07T14:00:15Z",
+                "open_issues": 1,
                 "owner": "shev0k",
                 "repo": "EQVita",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "audio",
+                  "audio-processing",
+                  "dsp",
+                  "equalizer",
+                  "homebrew",
+                  "kernel-plugin",
+                  "psvita",
+                  "psvita-hacking",
+                  "psvita-homebrew",
+                  "psvita-homerew",
+                  "system-wide",
+                  "vita-homebrew",
+                  "vitasdk"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1207,12 +1664,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental minimum brightness lowering plugin",
+                "homepage": null,
                 "id": 87748262,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-06-09T14:52:02Z",
+                "open_issues": 14,
                 "owner": "devnoname120",
                 "repo": "vitabright",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1223,12 +1688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vita screen test for oled and lcd screens",
+                "homepage": null,
                 "id": 1132375733,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-01-11T21:05:34Z",
+                "open_issues": 0,
                 "owner": "ibrahim-dogan",
                 "repo": "vita-screen-test",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1246,12 +1716,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taiHEN plugin that shows battery percent in statusbar",
+                "homepage": null,
                 "id": 91670650,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-08-03T16:25:14Z",
+                "open_issues": 6,
                 "owner": "nowrep",
                 "repo": "vita-shellbat",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "henkaku",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1262,12 +1740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple tai-hen plugin that displays the current battery percentage on your PS VITA",
+                "homepage": null,
                 "id": 274766921,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-06-13T17:38:20Z",
+                "open_issues": 1,
                 "owner": "Electric1447",
                 "repo": "VITABatteryPlus",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1285,12 +1768,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Playtime tracker plugin for PS Vita.",
+                "homepage": null,
                 "id": 247263185,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-26T00:30:58Z",
+                "open_issues": 0,
                 "owner": "FMudanyali",
                 "repo": "BetterTrackPlug",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "playtime",
+                  "psvita",
+                  "psvita-homebrew",
+                  "team-cbps",
+                  "tracker"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1301,12 +1795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for PS Vita that unlocks hidden copy/paste feature in system software",
+                "homepage": null,
                 "id": 411783542,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-09-29T18:26:27Z",
+                "open_issues": 1,
                 "owner": "GrapheneCt",
                 "repo": "PasteUnlock",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1317,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dt2s-vita (Double Tap 2 Sleep for PS VITA)",
+                "homepage": null,
                 "id": 308948325,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-11-15T20:08:58Z",
+                "open_issues": 0,
                 "owner": "joel16",
                 "repo": "dt2s-vita",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1340,12 +1844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of small tweaks for the PS Vita",
+                "homepage": null,
                 "id": 142414434,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-28T19:26:41Z",
+                "open_issues": 7,
                 "owner": "TheOfficialFloW",
                 "repo": "VitaTweaks",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1356,12 +1865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Maybe) useful tools for PSP2 Vita and Dolce",
+                "homepage": null,
                 "id": 312353210,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-06-29T07:02:38Z",
+                "open_issues": 9,
                 "owner": "SKGleba",
                 "repo": "VitaTools",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1379,12 +1893,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds TLS v1.2 to Enso enabled devices",
+                "homepage": null,
                 "id": 142764010,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-09-22T08:30:12Z",
+                "open_issues": 7,
                 "owner": "SKGleba",
                 "repo": "iTLS-Enso",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1395,12 +1914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of small tweaks for the PS Vita",
+                "homepage": null,
                 "id": 142414434,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-28T19:26:41Z",
+                "open_issues": 7,
                 "owner": "TheOfficialFloW",
                 "repo": "VitaTweaks",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1411,12 +1935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Change your Discord rich presence to your currently playing PS Vita game!",
+                "homepage": null,
                 "id": 252027382,
                 "language": "C#",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-06T16:08:28Z",
+                "open_issues": 9,
                 "owner": "Electry",
                 "repo": "VitaPresence",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1427,12 +1956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 599373743,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-03-03T07:17:13Z",
+                "open_issues": 4,
                 "owner": "cy33hc",
                 "repo": "vita-ezremote-client",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1443,12 +1977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Switch between your PSN accounts on your Vita",
+                "homepage": null,
                 "id": 66170832,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-10-02T01:11:55Z",
+                "open_issues": 5,
                 "owner": "elpendor",
                 "repo": "accountswitcher",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1459,12 +1998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 80554751,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-02-01T03:42:58Z",
+                "open_issues": 2,
                 "owner": "yifanlu",
                 "repo": "netcheck_bypass",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1475,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethernet for retail vita.",
+                "homepage": null,
                 "id": 536713143,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-10-04T15:25:58Z",
+                "open_issues": 2,
                 "owner": "isage",
                 "repo": "vita-usb-ether",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1491,12 +2040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User agent spoofer plugin for PS Vita WebKit",
+                "homepage": null,
                 "id": 493426683,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-05-17T22:12:01Z",
+                "open_issues": 1,
                 "owner": "GrapheneCt",
                 "repo": "UserAgentSpoofer",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1507,12 +2061,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VitaSSH – SSH Client for PS Vita",
+                "homepage": null,
                 "id": 1079484077,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-31T04:38:44Z",
+                "open_issues": 0,
                 "owner": "rompelhd",
                 "repo": "VitaSSH",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "homebrew",
+                  "psvita",
+                  "psvita-hacking",
+                  "psvita-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1523,12 +2087,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multidownload files for  Play Station Vita.",
+                "homepage": null,
                 "id": 103540554,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-14T02:14:07Z",
+                "open_issues": 5,
                 "owner": "DavisDev",
                 "repo": "Multidownload-Vita",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "download-files-on-vita",
+                  "file-downloader-vita",
+                  "multidownload",
+                  "multidownloader"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1539,12 +2113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PS Vita TCP Hosts and Ports Scanner ",
+                "homepage": null,
                 "id": 914599277,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-01-10T12:43:23Z",
+                "open_issues": 0,
                 "owner": "lp1dev",
                 "repo": "vita_ports_scanner",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1562,12 +2141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-functional file manager for PS Vita",
+                "homepage": null,
                 "id": 66739335,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-25T01:11:13Z",
+                "open_issues": 110,
                 "owner": "TheOfficialFloW",
                 "repo": "VitaShell",
-                "stars": 1539
+                "stars": 1539,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1578,12 +2162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small utility that fixes most of PSVita's battery-related problems.",
+                "homepage": null,
                 "id": 187529248,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-01-08T15:42:09Z",
+                "open_issues": 6,
                 "owner": "SKGleba",
                 "repo": "PSP2-batteryFixer",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1594,12 +2183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "File descriptor invalidation fix for PS Vita",
+                "homepage": null,
                 "id": 307824227,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-27T22:55:32Z",
+                "open_issues": 0,
                 "owner": "TheOfficialFloW",
                 "repo": "FdFix",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1610,12 +2204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extractor and decrypter for Vita's SceShaccCg module. ",
+                "homepage": null,
                 "id": 275767231,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-03T06:49:04Z",
+                "open_issues": 3,
                 "owner": "OsirizX",
                 "repo": "ShaRKF00D",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1626,12 +2225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kernel-user bridge module for PS Vita",
+                "homepage": null,
                 "id": 488418562,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-31T20:00:35Z",
+                "open_issues": 0,
                 "owner": "bythos14",
                 "repo": "kubridge",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1642,12 +2246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disable the annoying \"Connecting\" dialog when you connect your vita to your pc",
+                "homepage": null,
                 "id": 370668595,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-06-01T12:10:15Z",
+                "open_issues": 0,
                 "owner": "Ibrahim778",
                 "repo": "USBDisable",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1658,12 +2267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSV Trophies Fixer (GPLv3)",
+                "homepage": null,
                 "id": 112329473,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-08-03T23:00:51Z",
+                "open_issues": 0,
                 "owner": "Yoti",
                 "repo": "psv_trophfix",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1674,12 +2288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NPS Themes Fixer",
+                "homepage": null,
                 "id": 270990105,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-11T22:53:09Z",
+                "open_issues": 0,
                 "owner": "Yoti",
                 "repo": "psv_npsthmfxr",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1697,12 +2316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improve color saturation on your Vita 2000",
+                "homepage": null,
                 "id": 272282727,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-09-13T15:40:52Z",
+                "open_issues": 0,
                 "owner": "Electric1447",
                 "repo": "lcd-color-saturation",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1720,12 +2344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Removes PSTV Blacklist Checks (VITA/PSP/PS1/PSM)",
+                "homepage": null,
                 "id": 229058668,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-03-23T00:27:36Z",
+                "open_issues": 0,
                 "owner": "LiEnby",
                 "repo": "DolcePolce",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1743,12 +2372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.",
+                "homepage": null,
                 "id": 300512081,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-29T07:14:57Z",
+                "open_issues": 17,
                 "owner": "SilentNightx",
                 "repo": "VitaDockPlus",
-                "stars": 404
+                "stars": 404,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1759,12 +2393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 201790069,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-02-14T16:04:47Z",
+                "open_issues": 0,
                 "owner": "CrashCortez",
                 "repo": "VitaDock-DIY",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1775,12 +2414,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone utility to turn your PC into a dock for the PlayStation Vita™",
+                "homepage": null,
                 "id": 525019187,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-24T16:58:10Z",
+                "open_issues": 2,
                 "owner": "NekoMimiOfficial",
                 "repo": "VitaDockLite",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "playstation-vita",
+                  "vitadock"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1804,12 +2451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 310107074,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-28T16:35:08Z",
+                "open_issues": 47,
                 "owner": "MERLev",
                 "repo": "reVita",
-                "stars": 100
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1820,12 +2472,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taiHEN plugin that allows to force preferred Remote Play button configuration",
+                "homepage": null,
                 "id": 105187878,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-07-12T05:03:05Z",
+                "open_issues": 6,
                 "owner": "nowrep",
                 "repo": "vita-ps4linkcontrols",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "henkaku",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1836,12 +2496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "taiHEN plugin for swapping X and O buttons on PSVita",
+                "homepage": null,
                 "id": 76635651,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-12-19T18:32:23Z",
+                "open_issues": 0,
                 "owner": "Scorpeg",
                 "repo": "Button-Swap",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1852,12 +2517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of SMOKE's VitaTester implementing new features.",
+                "homepage": null,
                 "id": 645555643,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-24T15:06:20Z",
+                "open_issues": 2,
                 "owner": "Avellea",
                 "repo": "VitaTester",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1868,12 +2538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reartouch pad disabler plugin for PSVITA.",
+                "homepage": null,
                 "id": 88759050,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-07-05T09:15:09Z",
+                "open_issues": 1,
                 "owner": "Rinnegatamante",
                 "repo": "WDNR",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1884,12 +2559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configuration utility for vita-ps4linkcontrols",
+                "homepage": null,
                 "id": 271797944,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-06-12T13:00:18Z",
+                "open_issues": 0,
                 "owner": "keltar",
                 "repo": "ps4linkcontrols-gui",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -1907,12 +2587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows you to play local multiplayer games on your PS Vita with up to 4 friends",
+                "homepage": null,
                 "id": 142137581,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-24T21:00:07Z",
+                "open_issues": 28,
                 "owner": "TheOfficialFloW",
                 "repo": "MiniVitaTV",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1923,12 +2608,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use a DS4 on your PSVita",
+                "homepage": null,
                 "id": 77392287,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-05-15T15:29:19Z",
+                "open_issues": 47,
                 "owner": "xerpi",
                 "repo": "ds4vita",
-                "stars": 181
+                "stars": 182,
+                "topics": [
+                  "kernel",
+                  "plugin",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1939,12 +2633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use bluetooth controllers on your Vita!",
+                "homepage": null,
                 "id": 370540208,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-12-29T07:24:02Z",
+                "open_issues": 16,
                 "owner": "Hydr8gon",
                 "repo": "VitaControl",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1955,12 +2654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 📺 GMCA - A Gamepad (Switch, PS Vita, Linux, PS4) Media Center Aggregator (Plex, Jellyfin, Emby or Stremio)",
+                "homepage": "https://thcolin.github.io/gamepad-media-center-aggregator/",
                 "id": 1264210043,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T08:08:04Z",
+                "open_issues": 18,
                 "owner": "thcolin",
                 "repo": "gamepad-media-center-aggregator",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1971,12 +2675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 291544522,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-01-01T13:42:28Z",
+                "open_issues": 2,
                 "owner": "MERLev",
                 "repo": "ds34vita",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -1987,12 +2696,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect 8Bitdo controllers to the PSVita",
+                "homepage": null,
                 "id": 385528833,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-13T04:25:53Z",
+                "open_issues": 12,
                 "owner": "Ibrahim778",
                 "repo": "8BitVita",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "bluetooth",
+                  "plugin",
+                  "psvita-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2003,12 +2721,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77288983,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-06-22T07:52:37Z",
+                "open_issues": 10,
                 "owner": "xerpi",
                 "repo": "viimote",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "henkaku",
+                  "plugin",
+                  "vita",
+                  "wiimote"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2019,12 +2747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect Xbox one controllers to the vita",
+                "homepage": null,
                 "id": 367863323,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-10-21T07:29:18Z",
+                "open_issues": 0,
                 "owner": "Ibrahim778",
                 "repo": "X1Vita",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2035,12 +2768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ViXEn - Vita X-input Enabler",
+                "homepage": null,
                 "id": 590539813,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-03-18T12:47:10Z",
+                "open_issues": 5,
                 "owner": "isage",
                 "repo": "vixen",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2051,12 +2789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSTV mouse/keyboard driver",
+                "homepage": null,
                 "id": 649871251,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-07-11T06:35:09Z",
+                "open_issues": 1,
                 "owner": "isage",
                 "repo": "tvikey",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2067,12 +2810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 294913530,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-09-27T21:41:53Z",
+                "open_issues": 2,
                 "owner": "MERLev",
                 "repo": "ds4Touch",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2083,12 +2831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DualShock motion control support for PlayStation TV",
+                "homepage": null,
                 "id": 310028918,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-11-22T00:21:00Z",
+                "open_issues": 0,
                 "owner": "MERLev",
                 "repo": "DS34Motion",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2099,12 +2852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support app for ViXEn",
+                "homepage": null,
                 "id": 618114097,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-08T18:26:04Z",
+                "open_issues": 2,
                 "owner": "isage",
                 "repo": "vixen-helper",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2122,12 +2880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSVita as a USB game controller",
+                "homepage": null,
                 "id": 87867933,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-16T07:57:46Z",
+                "open_issues": 33,
                 "owner": "xerpi",
                 "repo": "vitastick",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2138,12 +2901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin that turns your Playstation Vita into a fully functional gaming controller.",
+                "homepage": null,
                 "id": 542399142,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-06-15T19:18:25Z",
+                "open_issues": 10,
                 "owner": "carlelieser",
                 "repo": "vitapad",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2154,12 +2922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vita Virtual Dualshock",
+                "homepage": null,
                 "id": 793266279,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-10-22T06:59:28Z",
+                "open_issues": 6,
                 "owner": "isage",
                 "repo": "vivid",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2170,12 +2943,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VitaKeyboard - Use your PSVita as a USB keyboard",
+                "homepage": null,
                 "id": 448701100,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-10-29T16:03:35Z",
+                "open_issues": 0,
                 "owner": "mswlandi",
                 "repo": "vitakeyboard",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2186,12 +2964,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hnaves's psp hidmouse - PSVita port",
+                "homepage": null,
                 "id": 78215070,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-01-06T16:35:46Z",
+                "open_issues": 0,
                 "owner": "xerpi",
                 "repo": "hidmouse",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2215,12 +2998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d cover flow like launcher for PS Vita",
+                "homepage": null,
                 "id": 400846255,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:32:16Z",
+                "open_issues": 2,
                 "owner": "jimbob4000",
                 "repo": "RetroFlow-Launcher",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2231,12 +3019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OneMenu for PSVita is a simple to use UI which separates the installed games and apps into categories, Onemenu comes with a built in file explorer",
+                "homepage": null,
                 "id": 110575963,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2025-09-07T17:00:33Z",
+                "open_issues": 5,
                 "owner": "ONElua",
                 "repo": "ONEMenu-for-PSVita",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2247,12 +3040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d cover flow like launcher for PS Vita",
+                "homepage": null,
                 "id": 305825146,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-07-28T15:55:08Z",
+                "open_issues": 30,
                 "owner": "VitaHEX-Games",
                 "repo": "HexFlow-Launcher",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2263,12 +3061,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 295280831,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-23T01:44:50Z",
+                "open_issues": 23,
                 "owner": "cy33hc",
                 "repo": "vita-launcher",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2279,12 +3082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d cover flow like launcher for PS Vita",
+                "homepage": null,
                 "id": 482669587,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-01-25T09:33:34Z",
+                "open_issues": 7,
                 "owner": "BlackSheepBoy69",
                 "repo": "HexFlow-Launcher-Unofficial-Custom",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2302,12 +3110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Maybe) useful tools for PSP2 Vita and Dolce",
+                "homepage": null,
                 "id": 312353210,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-06-29T07:02:38Z",
+                "open_issues": 9,
                 "owner": "SKGleba",
                 "repo": "VitaTools",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2318,12 +3131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App to install fonts to PS Vita",
+                "homepage": null,
                 "id": 105259589,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-09-29T10:28:55Z",
+                "open_issues": 1,
                 "owner": "cxziaho",
                 "repo": "fontInstaller",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2341,12 +3159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PS Vita home background wave add plugin",
+                "homepage": null,
                 "id": 526091960,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-03-22T08:10:35Z",
+                "open_issues": 2,
                 "owner": "Princess-of-Sleeping",
                 "repo": "psp2wpp",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2357,12 +3180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357662848,
                 "language": "Batchfile",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-12T01:49:35Z",
+                "open_issues": 0,
                 "owner": "DRok17",
                 "repo": "QuickLaunch-Installer",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2373,12 +3201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Power Features in the Vita Quick Menu",
+                "homepage": null,
                 "id": 1005415582,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-20T09:55:08Z",
+                "open_issues": 5,
                 "owner": "PsArchive",
                 "repo": "QuickMenuPlus",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2389,12 +3222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple app to enhance the shortcuts on the PS Vita index menu.",
+                "homepage": null,
                 "id": 181226214,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2019-06-04T16:10:21Z",
+                "open_issues": 2,
                 "owner": "ONElua",
                 "repo": "Shortcuts-Enhancer",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2405,12 +3243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 235698449,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-03-21T14:56:18Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "TransparentImpose",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2421,12 +3264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live Area and Vita Shell Theme Installer",
+                "homepage": null,
                 "id": 70751125,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-02-01T08:52:29Z",
+                "open_issues": 1,
                 "owner": "Mithrenes",
                 "repo": "TEMA",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2444,12 +3292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 386968813,
                 "language": "Batchfile",
+                "license": "GPL-3.0",
                 "last_commit": "2024-02-11T03:05:08Z",
+                "open_issues": 5,
                 "owner": "DRok17",
                 "repo": "Multi-Builder",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2460,12 +3313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts HTML Guides to Vita Manuals",
+                "homepage": null,
                 "id": 492989416,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-18T20:09:31Z",
+                "open_issues": 1,
                 "owner": "RawBOT",
                 "repo": "faq-to-vita-manual",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2476,12 +3334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FakeName Changer is a PS Vita homebrew app that lets you rename LiveArea bubble titles without touching PARAM.SFO. It reads installed bubbles from app.db, lets you edit names, creates backups, and requires a reboot/apply refresh so the new titles appear safely on the home screen after restart.",
+                "homepage": null,
                 "id": 1226088777,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-05-03T14:55:05Z",
+                "open_issues": 0,
                 "owner": "Eywa186",
                 "repo": "FakeName-Changer-For-PSVita",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2505,12 +3368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 96715117,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-06-01T11:11:31Z",
+                "open_issues": 5,
                 "owner": "xyzz",
                 "repo": "pngshot",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2521,12 +3389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple file browser for PS Vita homebrew that is used for viewing various image formats.",
+                "homepage": null,
                 "id": 277696048,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-29T21:54:22Z",
+                "open_issues": 3,
                 "owner": "joel16",
                 "repo": "VITAlbum",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2544,12 +3417,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Eleven Music Player PS Vita",
+                "homepage": null,
                 "id": 261012593,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-25T00:46:46Z",
+                "open_issues": 1,
                 "owner": "GrapheneCt",
                 "repo": "ElevenMPV-A",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2560,12 +3438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small utility to permanently enable/disable the auto-avls \"feature\" on Playstation Vita",
+                "homepage": null,
                 "id": 218564515,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-01-18T12:53:00Z",
+                "open_issues": 0,
                 "owner": "SKGleba",
                 "repo": "VITA-NoAutoAvls",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2576,12 +3459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1191819623,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-03-29T08:54:54Z",
+                "open_issues": 4,
                 "owner": "Jyotiraditya-Samal",
                 "repo": "Vitawave",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2592,12 +3480,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A favorite FT2 compatible music tracker ported to PlayStation Vita",
+                "homepage": "http://milkytracker.github.io/",
                 "id": 655312241,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-18T23:33:16Z",
+                "open_issues": 0,
                 "owner": "TheMorc",
                 "repo": "MilkyTrackerVita",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "fasttracker2",
+                  "homebrew",
+                  "moduletracker",
+                  "playstation",
+                  "psvita",
+                  "sdl2",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2608,12 +3509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A webradios homebrew for PS Vita",
+                "homepage": null,
                 "id": 1034093889,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-14T16:42:24Z",
+                "open_issues": 4,
                 "owner": "Aztorius",
                 "repo": "vita-webradios",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2624,12 +3530,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tracker player homebrew for Playstation Vita.",
+                "homepage": null,
                 "id": 639544733,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-05-17T05:01:34Z",
+                "open_issues": 2,
                 "owner": "thexkey",
                 "repo": "vitaTrak",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cpp",
+                  "cpp11",
+                  "homebrew",
+                  "libopenmpt",
+                  "modarchive",
+                  "playstation",
+                  "psvita",
+                  "tracker-music"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2647,12 +3567,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上",
+                "homepage": "https://xfangfang.github.io/wiliwili",
                 "id": 330355479,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-25T06:34:29Z",
+                "open_issues": 99,
                 "owner": "xfangfang",
                 "repo": "wiliwili",
-                "stars": 5442
+                "stars": 5445,
+                "topics": [
+                  "bilibili",
+                  "mpv",
+                  "nanovg",
+                  "nintendo-switch",
+                  "nintendo-switch-homebrew",
+                  "opencc",
+                  "opengl",
+                  "ps4",
+                  "psv",
+                  "xbox"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2663,12 +3599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source PSVita/TV MP4 player with 1080p playback and subtitle support",
+                "homepage": null,
                 "id": 355080705,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-14T02:29:18Z",
+                "open_issues": 10,
                 "owner": "SonicMastr",
                 "repo": "Vita-Media-Player",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2679,12 +3620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple application to use youtube on PSVITA",
+                "homepage": null,
                 "id": 112640954,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2019-05-14T19:16:12Z",
+                "open_issues": 1,
                 "owner": "theheroGAC",
                 "repo": "TubeVita",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2695,12 +3641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 91059169,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-05-16T17:42:15Z",
+                "open_issues": 8,
                 "owner": "cnsldv",
                 "repo": "MediaImporter",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2711,12 +3662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin to record clips for PSVITA/PSTV.",
+                "homepage": null,
                 "id": 358960988,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-22T08:14:39Z",
+                "open_issues": 2,
                 "owner": "Rinnegatamante",
                 "repo": "Vita-Recorder",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2727,12 +3683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MVPlayer.vpk and Boxset Bubble Builder",
+                "homepage": null,
                 "id": 471369182,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-03T13:41:05Z",
+                "open_issues": 2,
                 "owner": "AntHJ",
                 "repo": "MVPlayer",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2743,12 +3704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VPK Boxset Bubble Creator",
+                "homepage": null,
                 "id": 471363156,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-04-26T02:24:56Z",
+                "open_issues": 1,
                 "owner": "AntHJ",
                 "repo": "Boxset-Bubble-Creator",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2766,12 +3732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Live2D face tracking software PoC for PS Vita",
+                "homepage": null,
                 "id": 590223470,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-01-17T23:36:03Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "LiveRig",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2782,12 +3753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-functional QR tool that scans and generates QR codes on the PS Vita.",
+                "homepage": null,
                 "id": 1023143448,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-24T19:27:03Z",
+                "open_issues": 0,
                 "owner": "HarommelRabbid",
                 "repo": "BetterQRScanner",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2805,12 +3781,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application for PlayStation Vita to read manga or comics",
+                "homepage": null,
                 "id": 230457558,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-08T23:14:29Z",
+                "open_issues": 42,
                 "owner": "Creckeryop",
                 "repo": "NOBORU",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "app",
+                  "cbz",
+                  "comics",
+                  "comics-downloader",
+                  "comics-reader",
+                  "lua",
+                  "manga",
+                  "manga-downloader",
+                  "manga-reader",
+                  "parsers",
+                  "psvita",
+                  "vita",
+                  "vitasdk"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2821,12 +3816,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A book reader for the Vita and Switch. Still a work in progress.",
+                "homepage": null,
                 "id": 79551869,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-02T17:25:44Z",
+                "open_issues": 11,
                 "owner": "pathway27",
                 "repo": "bookr-mod-vita",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "cbz",
+                  "ebook-reader",
+                  "epub",
+                  "fb2",
+                  "html",
+                  "img",
+                  "mupdf",
+                  "pdf",
+                  "psvita",
+                  "switch",
+                  "xps"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2837,12 +3849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1023277252,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-29T10:02:11Z",
+                "open_issues": 0,
                 "owner": "joel16",
                 "repo": "vitaPDF",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2860,12 +3877,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Third-party native Jellyfin client for PC/PS4/PSVita/Nintendo Switch",
+                "homepage": null,
                 "id": 652522172,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T08:14:56Z",
+                "open_issues": 47,
                 "owner": "dragonflylee",
                 "repo": "switchfin",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "jellyfin",
+                  "jellyfin-client",
+                  "mpv",
+                  "nintendo-switch",
+                  "nintendo-switch-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2876,12 +3904,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSVita UDCD USB Video Class plugin",
+                "homepage": null,
                 "id": 148004654,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-05-11T22:33:11Z",
+                "open_issues": 81,
                 "owner": "xerpi",
                 "repo": "vita-udcd-uvc",
-                "stars": 553
+                "stars": 553,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2892,12 +3925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal video streaming client for PS Vita",
+                "homepage": null,
                 "id": 581934200,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-04-23T12:22:55Z",
+                "open_issues": 36,
                 "owner": "GrapheneCt",
                 "repo": "NetStream",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2908,12 +3946,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spotify Connect client for PS Vita",
+                "homepage": null,
                 "id": 544126784,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-03-09T19:13:54Z",
+                "open_issues": 14,
                 "owner": "michal4132",
                 "repo": "cspot_vita",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "cspot",
+                  "psvita",
+                  "spotify"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2931,12 +3978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA Gamestream client for PlayStation Vita, based on moonlight-embedded",
+                "homepage": null,
                 "id": 65733661,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-27T13:43:24Z",
+                "open_issues": 76,
                 "owner": "xyzz",
                 "repo": "vita-moonlight",
-                "stars": 809
+                "stars": 809,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2947,12 +3999,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xbox Cloud Gaming on PlayStation Vita.",
+                "homepage": null,
                 "id": 1299343897,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-06T15:24:15Z",
+                "open_issues": 11,
                 "owner": "Day-OS",
                 "repo": "green-vita",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "psvita",
+                  "psvita-homebrew"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -2963,12 +4023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of AAGaming's Chiaki Vita port (https://git.catvibers.me/aa/chiaki, https://github.com/AAGaming00)",
+                "homepage": null,
                 "id": 1003469611,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T10:47:12Z",
+                "open_issues": 64,
                 "owner": "mauricio-gg",
                 "repo": "vitaki-vitarps5",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -2992,12 +4057,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another overclocking plugin",
+                "homepage": null,
                 "id": 214449569,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-03-22T21:27:36Z",
+                "open_issues": 17,
                 "owner": "Electry",
                 "repo": "PSVshell",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3008,12 +4078,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced OC&Info plugin for PS Vita",
+                "homepage": null,
                 "id": 516924254,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-05-05T01:48:42Z",
+                "open_issues": 9,
                 "owner": "GrapheneCt",
                 "repo": "PSVshellPlus",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3024,12 +4099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 272768600,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-11-16T20:22:37Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "CapUnlocker",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3040,12 +4120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gets rid of the 77% brightness limit",
+                "homepage": null,
                 "id": 214178257,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-11-04T08:22:35Z",
+                "open_issues": 0,
                 "owner": "Electry",
                 "repo": "NoPowerLimitsVita",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3056,12 +4141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 231280017,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-04-20T20:47:36Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "LowMemMode",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3072,12 +4162,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 273791348,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-08-14T22:28:00Z",
+                "open_issues": 5,
                 "owner": "GrapheneCt",
                 "repo": "ThreadOptimizer",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3088,12 +4183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 234414675,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-03-31T18:38:46Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "Affinity-Changer",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3104,12 +4204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A VSH menu tai-hen plugin for the PS VITA.",
+                "homepage": null,
                 "id": 300705233,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-23T20:56:00Z",
+                "open_issues": 0,
                 "owner": "SilentNightx",
                 "repo": "PSV-VSH-Menu",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3127,12 +4232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VitaGrafix - taiHEN plugin that allows you to change resolution and FPS cap of PS Vita games",
+                "homepage": null,
                 "id": 143932479,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T18:50:48Z",
+                "open_issues": 131,
                 "owner": "Electry",
                 "repo": "VitaGrafix",
-                "stars": 444
+                "stars": 444,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3143,12 +4253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of patches for VitaGrafix 5.0+",
+                "homepage": null,
                 "id": 162761045,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-24T19:17:04Z",
+                "open_issues": 94,
                 "owner": "Electry",
                 "repo": "VitaGrafixPatchlist",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3159,12 +4274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GUI Configurator for the VitaGrafix plugin",
+                "homepage": null,
                 "id": 146678842,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-09T21:09:26Z",
+                "open_issues": 7,
                 "owner": "Kirezar",
                 "repo": "VitaGrafixConfigurator",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3175,12 +4295,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin that makes blurry textures sharper by changing scaling algorithm",
+                "homepage": null,
                 "id": 352378490,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2023-01-14T14:36:29Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Vita-Nearest-Neighbour",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "game-enhancement",
+                  "linear-filtering",
+                  "nearest-neighbor",
+                  "point-filtering",
+                  "ps-vita",
+                  "psvita",
+                  "texture-scaling",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3191,12 +4325,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overriding the scaling algorithm to smooth out the unfiltered textures",
+                "homepage": null,
                 "id": 391959825,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-08-25T10:01:09Z",
+                "open_issues": 0,
                 "owner": "swosho",
                 "repo": "Vita-Bilinear",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "game-enhancement",
+                  "linear-filtering",
+                  "point-filtering",
+                  "ps-vita",
+                  "psvita",
+                  "texture-scaling",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3207,12 +4354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TAIHEN plugin for disabling vsync on a per game basis",
+                "homepage": null,
                 "id": 1197804625,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-15T04:32:49Z",
+                "open_issues": 0,
                 "owner": "junminlee2004",
                 "repo": "novsync",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3223,12 +4375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple plugin for PSVita that forces 30 FPS framecap.",
+                "homepage": null,
                 "id": 1023064154,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-20T14:27:02Z",
+                "open_issues": 0,
                 "owner": "Rinnegatamante",
                 "repo": "Framecapper",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3246,12 +4403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This app allows you to preview the trophies and their status for each game and delete trophies as desired.",
+                "homepage": null,
                 "id": 162592925,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2023-09-15T04:08:56Z",
+                "open_issues": 2,
                 "owner": "ONElua",
                 "repo": "TrophyManager",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3262,12 +4424,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A PS Vita plugin that takes a screenshot when you get a trophy.",
+                "homepage": null,
                 "id": 268628465,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-11-01T14:47:41Z",
+                "open_issues": 0,
                 "owner": "FMudanyali",
                 "repo": "TrophyShot",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "psvita",
+                  "psvita-homebrew",
+                  "screenshot",
+                  "team-cbps",
+                  "trophy"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3285,12 +4458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FinalCheat / VitaCheat Database",
+                "homepage": null,
                 "id": 127750882,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-07T05:28:42Z",
+                "open_issues": 49,
                 "owner": "r0ah",
                 "repo": "vitacheat",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3301,12 +4479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FinalCheat / VitaCheat Database",
+                "homepage": null,
                 "id": 127750882,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-07T05:28:42Z",
+                "open_issues": 49,
                 "owner": "r0ah",
                 "repo": "vitacheat",
-                "stars": 421
+                "stars": 421,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3317,12 +4500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 105180633,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-22T13:20:38Z",
+                "open_issues": 36,
                 "owner": "ShumnoT",
                 "repo": "VitaCheatDatabase",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3333,12 +4521,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apollo Save Tool (PS Vita)",
+                "homepage": "http://www.bucanero.com.ar/",
                 "id": 496411753,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-19T22:35:27Z",
+                "open_issues": 7,
                 "owner": "bucanero",
                 "repo": "apollo-vita",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "psvita",
+                  "save-editor",
+                  "save-manager",
+                  "savegame",
+                  "savegame-editor"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3349,12 +4548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "déjàvu: Vita SaveState Plugin",
+                "homepage": null,
                 "id": 245275630,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-03-05T22:07:37Z",
+                "open_issues": 4,
                 "owner": "TheOfficialFloW",
                 "repo": "dejavu",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3365,12 +4569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant pro at any game!",
+                "homepage": null,
                 "id": 268772536,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-06T16:57:57Z",
+                "open_issues": 1,
                 "owner": "LiEnby",
                 "repo": "ScoreHax",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3394,12 +4603,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A port of https://www.github.com/sm64-port/sm64-port for the PS Vita",
+                "homepage": null,
                 "id": 284167285,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-04-22T01:03:54Z",
+                "open_issues": 4,
                 "owner": "bythos14",
                 "repo": "sm64-vita",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3410,12 +4624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TAIHEN plugin for enabling a feature complete 544p resolution upgrade for Gravity Rush on the PS VITA",
+                "homepage": null,
                 "id": 1194875679,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-15T04:32:24Z",
+                "open_issues": 2,
                 "owner": "junminlee2004",
                 "repo": "GR544P",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3426,12 +4645,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 273791348,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-08-14T22:28:00Z",
+                "open_issues": 5,
                 "owner": "GrapheneCt",
                 "repo": "ThreadOptimizer",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3442,12 +4666,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Game Patches for modified game consoles",
+                "homepage": null,
                 "id": 534727235,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-07T07:53:17Z",
+                "open_issues": 0,
                 "owner": "illusionyy",
                 "repo": "console-game-patches",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3458,12 +4687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an altered config file from Borderlands 2 for the vita for more fluid FPS",
+                "homepage": null,
                 "id": 149144377,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-05-22T10:02:09Z",
+                "open_issues": 6,
                 "owner": "justalex95",
                 "repo": "Borderlands-2-Vita-TweakyBlinders-config",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3474,12 +4708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that fixes some of the glaring issues with NFS:MW on PS Vita.",
+                "homepage": null,
                 "id": 249558691,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-03-23T22:35:41Z",
+                "open_issues": 2,
                 "owner": "Electry",
                 "repo": "NFSMW_Settings",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3490,12 +4729,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persona 4 Golden Patches (PS Vita)",
+                "homepage": null,
                 "id": 243363620,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-09T22:48:48Z",
+                "open_issues": 2,
                 "owner": "zarroboogs",
                 "repo": "p4g-patches",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3506,12 +4750,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSVita Alien Shooter DLC unlocker.",
+                "homepage": null,
                 "id": 503306895,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-06-17T14:05:51Z",
+                "open_issues": 1,
                 "owner": "isage",
                 "repo": "alienhook",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3522,12 +4771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persona 3/4/5 Dancing Patches (PS Vita)",
+                "homepage": null,
                 "id": 243362276,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-26T20:47:45Z",
+                "open_issues": 0,
                 "owner": "zarroboogs",
                 "repo": "pXd-patches",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3538,12 +4792,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disables linear filter for Duke Nukem 3D: Megaton Edition (PS Vita)",
+                "homepage": null,
                 "id": 335426726,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-29T13:01:08Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "DN3DME-Vita-Filter-Fix",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "duke-nukem-3d",
+                  "game-enhancement",
+                  "linear-filtering",
+                  "nearest-neighbor",
+                  "ps-vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3561,12 +4826,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of awesome stuff for PlayStation Vita",
+                "homepage": null,
                 "id": 274888596,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-08-03T17:05:10Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1805
+                "stars": 1806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "playstation",
+                  "playstation-vita",
+                  "ps-vita",
+                  "pstv",
+                  "psv",
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3577,12 +4857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GTA: SA Vita",
+                "homepage": null,
                 "id": 330361381,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-09-15T09:34:55Z",
+                "open_issues": 2,
                 "owner": "TheOfficialFloW",
                 "repo": "gtasa_vita",
-                "stars": 434
+                "stars": 435,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3593,12 +4878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 331099253,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-07-08T12:18:09Z",
+                "open_issues": 14,
                 "owner": "fgsfdsfgs",
                 "repo": "max_vita",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3609,12 +4899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 68055425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-20T22:52:10Z",
+                "open_issues": 0,
                 "owner": "StonedModder",
                 "repo": "The-Binding-of-Isaac-Mod-Conversion-Kit",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3625,12 +4920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository of P4G PC mods which have been ported to Vita",
+                "homepage": null,
                 "id": 455769620,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-11T00:35:41Z",
+                "open_issues": 1,
                 "owner": "ARandomGuy231",
                 "repo": "p4gvitamodports",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3648,12 +4948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheat Database for PPSSPP/PSP",
+                "homepage": null,
                 "id": 159952950,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-23T05:24:18Z",
+                "open_issues": 45,
                 "owner": "Saramagrean",
                 "repo": "CWCheat-Database-Plus-",
-                "stars": 795
+                "stars": 795,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3664,12 +4969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enables native resolution in a few PSP games",
+                "homepage": null,
                 "id": 294961437,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-10T20:01:02Z",
+                "open_issues": 9,
                 "owner": "TheOfficialFloW",
                 "repo": "GePatch",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3680,12 +4990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of dual analog patches for PSP games on Adrenaline",
+                "homepage": null,
                 "id": 142563236,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-04T10:22:06Z",
+                "open_issues": 9,
                 "owner": "TheOfficialFloW",
                 "repo": "RemasteredControls",
-                "stars": 292
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3696,12 +5011,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Internal resolution patch for PSP GTA series",
+                "homepage": null,
                 "id": 175987487,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-09T13:15:32Z",
+                "open_issues": 5,
                 "owner": "TheOfficialFloW",
                 "repo": "GTANativeRes",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3712,12 +5032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that adds right analog stick support to PSP games for eCFW",
+                "homepage": null,
                 "id": 100887554,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-06-16T18:57:23Z",
+                "open_issues": 7,
                 "owner": "Freakler",
                 "repo": "psp-camera_patch_lite",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3728,12 +5053,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Release is a PSP achievements system.",
+                "homepage": null,
                 "id": 1184884847,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-20T19:10:56Z",
+                "open_issues": 6,
                 "owner": "avetis-dev",
                 "repo": "PSPAchievementsSystem",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3744,12 +5074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pro online plugin fork with ppsspp compat and other fixes",
+                "homepage": null,
                 "id": 995352634,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-28T13:44:55Z",
+                "open_issues": 19,
                 "owner": "Kethen",
                 "repo": "aemu",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3760,12 +5095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 100094422,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-10-03T07:39:03Z",
+                "open_issues": 6,
                 "owner": "raing3",
                 "repo": "tempar",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3776,12 +5116,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 640368495,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-21T10:19:38Z",
+                "open_issues": 0,
                 "owner": "isage",
                 "repo": "adrenaline_usb_enabler",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3792,12 +5137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin to enable Infected Mode on Resistance Retribution for the PSP",
+                "homepage": null,
                 "id": 1131802775,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-12T01:00:54Z",
+                "open_issues": 0,
                 "owner": "adamfisher90",
                 "repo": "ResistancePSP_Infected",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -3821,12 +5171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openGL wrapper for PSVITA.",
+                "homepage": null,
                 "id": 115822316,
                 "language": "C",
-                "last_commit": "2026-08-27T22:01:41Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T13:26:12Z",
+                "open_issues": 2,
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 625
+                "stars": 625,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3837,12 +5192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolbox that makes homebrewing the PS Vita easier",
+                "homepage": null,
                 "id": 349514229,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-10-25T08:01:44Z",
+                "open_issues": 15,
                 "owner": "SKGleba",
                 "repo": "VitaDeploy",
-                "stars": 326
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3853,12 +5213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SDK installer and package \"manager\" for $VITASDK",
+                "homepage": null,
                 "id": 75743604,
                 "language": "Shell",
-                "last_commit": "2026-08-27T17:06:37Z",
+                "license": "LGPL-2.1",
+                "last_commit": "2026-08-28T20:41:57Z",
+                "open_issues": 1,
                 "owner": "vitasdk",
                 "repo": "vdpm",
-                "stars": 269
+                "stars": 269,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3869,12 +5234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Driver layer GPU libraries and tests for PSP2",
+                "homepage": null,
                 "id": 375338122,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-02-07T19:42:48Z",
+                "open_issues": 2,
                 "owner": "GrapheneCt",
                 "repo": "PVR_PSP2",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3885,12 +5255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A boilerplate project for TheFloW's so-loader to save time on common project setup for Android to Vita ports",
+                "homepage": null,
                 "id": 623643428,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-22T00:37:57Z",
+                "open_issues": 1,
                 "owner": "v-atamanenko",
                 "repo": "soloader-boilerplate",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3901,12 +5276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to help psvita unity development",
+                "homepage": null,
                 "id": 460263910,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-07-05T11:31:33Z",
+                "open_issues": 0,
                 "owner": "GlitcherOG",
                 "repo": "PSVita-Unity-Utilities",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3917,12 +5297,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple fake JVM/JNI interface in C. Created to make JNI-heavy Android→PSVita ports easier",
+                "homepage": null,
                 "id": 566969532,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-09T05:05:45Z",
+                "open_issues": 0,
                 "owner": "v-atamanenko",
                 "repo": "FalsoJNI",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "android",
+                  "jni",
+                  "jvm",
+                  "psvita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3933,12 +5323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone mono loader for PS Vita",
+                "homepage": null,
                 "id": 499605751,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-07-09T02:22:42Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "VitaMonoLoader",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3949,12 +5344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for developers to easily add their own widgets, to the vita's Quick Menu.",
+                "homepage": null,
                 "id": 382601578,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-06-17T05:49:31Z",
+                "open_issues": 2,
                 "owner": "Ibrahim778",
                 "repo": "QuickMenuReborn",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3965,28 +5365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple app settings dialog library for PS Vita",
+                "homepage": null,
                 "id": 429631275,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-12-25T19:11:19Z",
+                "open_issues": 0,
                 "owner": "GrapheneCt",
                 "repo": "libAppSettings",
-                "stars": 20
-              },
-              "first_seen": "2026-08-28T06:57:45.469Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VitaAL",
-              "description": "Hardware accelerated OpenAL 1.1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 514994287,
-                "language": "C++",
-                "last_commit": "2022-08-26T19:13:47Z",
-                "owner": "GrapheneCt",
-                "repo": "vitaAL",
-                "stars": 13
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -3997,12 +5386,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL implementation for Trilithium",
+                "homepage": null,
                 "id": 483337213,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-04-19T18:38:24Z",
+                "open_issues": 1,
                 "owner": "GrapheneCt",
                 "repo": "TriGL",
-                "stars": 13
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:57:45.469Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VitaAL",
+              "description": "Hardware accelerated OpenAL 1.1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hardware accelerated OpenAL for PS Vita",
+                "homepage": null,
+                "id": 514994287,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2022-08-26T19:13:47Z",
+                "open_issues": 0,
+                "owner": "GrapheneCt",
+                "repo": "vitaAL",
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4013,12 +5428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PP++",
+                "homepage": null,
                 "id": 505507748,
                 "language": "CMake",
+                "license": null,
                 "last_commit": "2022-06-20T16:02:55Z",
+                "open_issues": 0,
                 "owner": "isage",
                 "repo": "pppp-vita",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4036,12 +5456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bundle of RE tools for analyzing and modding PSVita OS",
+                "homepage": null,
                 "id": 120500512,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-20T22:16:10Z",
+                "open_issues": 14,
                 "owner": "TeamFAPS",
                 "repo": "PSVita-RE-tools",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4052,12 +5477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MaiDumpTool English",
+                "homepage": null,
                 "id": 69804823,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-10-09T19:39:09Z",
+                "open_issues": 5,
                 "owner": "LioMajor",
                 "repo": "MaiDumpToolEN",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4068,12 +5498,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of IDA loaders for various game console ELF's. (PS3, PSVita, WiiU)",
+                "homepage": null,
                 "id": 87337577,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-10-03T18:08:05Z",
+                "open_issues": 2,
                 "owner": "aerosoul94",
                 "repo": "ida_gel",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "elf-loader",
+                  "ida-loaders",
+                  "ida-plugin",
+                  "ida-pro",
+                  "ps3",
+                  "psvita",
+                  "reverse-engineering",
+                  "wiiu"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4084,12 +5528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VitaLoader script for Ghidra",
+                "homepage": null,
                 "id": 175091870,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2020-10-21T08:44:32Z",
+                "open_issues": 2,
                 "owner": "xerpi",
                 "repo": "GhidraVitaLoader",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4100,12 +5549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GDB compatible debugger for the PSVita",
+                "homepage": null,
                 "id": 178066515,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-04-26T23:45:11Z",
+                "open_issues": 1,
                 "owner": "DaveeFTW",
                 "repo": "kvdb",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4116,12 +5570,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edit PS Vita registry settings",
+                "homepage": null,
                 "id": 77183443,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-12-21T21:10:45Z",
+                "open_issues": 1,
                 "owner": "devnoname120",
                 "repo": "RegistryEditorMOD",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "psvita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4132,12 +5593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PS Vita ELF/PRX2 (symbol) loader plugin for Binary Ninja",
+                "homepage": null,
                 "id": 857921262,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-23T23:22:30Z",
+                "open_issues": 0,
                 "owner": "computerman00",
                 "repo": "BinaryNinja-PSVitaLoader",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4148,12 +5614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IDA Pro loader plugin for PS Vita",
+                "homepage": null,
                 "id": 729877433,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-10T16:24:35Z",
+                "open_issues": 0,
                 "owner": "LinkOFF7",
                 "repo": "vitaldr",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4171,12 +5642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HandBrake's development repository ",
+                "homepage": "https://handbrake.fr",
                 "id": 41215835,
                 "language": "C",
-                "last_commit": "2026-08-28T06:21:13Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T08:59:25Z",
+                "open_issues": 293,
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24194
+                "stars": 24205,
+                "topics": [
+                  "gplv2",
+                  "multi-platform",
+                  "video-transcoding"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4187,12 +5667,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform content manager assistant for the PS Vita",
+                "homepage": null,
                 "id": 12042961,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T06:13:41Z",
+                "open_issues": 4,
                 "owner": "codestation",
                 "repo": "qcma",
-                "stars": 665
+                "stars": 665,
+                "topics": [
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4203,12 +5691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decrypts PlayStation Vita pkg file and packages to zip archive",
+                "homepage": null,
                 "id": 165358779,
                 "language": "C",
+                "license": "Unlicense",
                 "last_commit": "2026-08-04T23:06:00Z",
+                "open_issues": 1,
                 "owner": "lusid1",
                 "repo": "pkg2zip",
-                "stars": 279
+                "stars": 279,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4219,12 +5712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GameMaker Studio 1.4.xxxx > psvita export tool",
+                "homepage": null,
                 "id": 194249856,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-03T04:06:37Z",
+                "open_issues": 6,
                 "owner": "LiEnby",
                 "repo": "GayMaker",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4235,12 +5733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Sign\" PSP ISO's to run on Unmodified PSVita Firmware.",
+                "homepage": null,
                 "id": 202898005,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T07:44:22Z",
+                "open_issues": 19,
                 "owner": "LiEnby",
                 "repo": "chovy-sign",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4251,12 +5754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TempAR - Vita Edition is a Pointer scanner for use with Vita, PSP, and NDS",
+                "homepage": null,
                 "id": 184566618,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-10-01T05:19:15Z",
+                "open_issues": 2,
                 "owner": "Yohoki",
                 "repo": "TempAR-Vita",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4267,12 +5775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PS Vita PKG Unpacker",
+                "homepage": null,
                 "id": 104413640,
                 "language": "Pascal",
+                "license": null,
                 "last_commit": "2017-10-08T17:02:57Z",
+                "open_issues": 4,
                 "owner": "RikuKH3",
                 "repo": "unpkg_vita",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4283,12 +5796,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "BootAnimation creator for enso_ex and CBS-Manager",
+                "homepage": null,
                 "id": 187715604,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-07-09T21:52:20Z",
+                "open_issues": 4,
                 "owner": "SKGleba",
                 "repo": "PSP2-CBAnim",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4299,12 +5817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server for \"Content Downloader\"",
+                "homepage": null,
                 "id": 277474988,
                 "language": "C#",
+                "license": "GPL-2.0",
                 "last_commit": "2020-07-06T09:58:49Z",
+                "open_issues": 0,
                 "owner": "LiEnby",
                 "repo": "ContentServer",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4322,12 +5845,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A NoPayStation client for android",
+                "homepage": null,
                 "id": 262517789,
                 "language": "Kotlin",
+                "license": "GPL-2.0",
                 "last_commit": "2026-04-30T17:49:18Z",
+                "open_issues": 0,
                 "owner": "IllusionMan1212",
                 "repo": "NPS-Browser",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "kotlin",
+                  "nopaystation",
+                  "ps-vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4338,12 +5872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vita Homebrew Browser client for Android",
+                "homepage": null,
                 "id": 268635398,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-05-29T19:21:13Z",
+                "open_issues": 1,
                 "owner": "Electric1447",
                 "repo": "VHBB-Android",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4361,12 +5900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSMinecraft Resource Converter as a website. Project forked from the PSMRC project also by me. ",
+                "homepage": "http://psmrc.duckdns.org/",
                 "id": 77294176,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-07-28T17:49:05Z",
+                "open_issues": 10,
                 "owner": "psiie",
                 "repo": "PSMRC-Node",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4384,12 +5928,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The first system/hardware identity tool for the PS VITA.",
+                "homepage": null,
                 "id": 64992142,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-09-10T23:07:03Z",
+                "open_issues": 7,
                 "owner": "joel16",
                 "repo": "VITAident",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "homebrew",
+                  "joel16",
+                  "ps-vita",
+                  "vitaident"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4400,12 +5954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple taihen plugin that prints useful information about PS Vita games",
+                "homepage": null,
                 "id": 152749071,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-02-09T16:03:12Z",
+                "open_issues": 4,
                 "owner": "Electry",
                 "repo": "VGi",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4416,12 +5975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 592446535,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-07T18:22:08Z",
+                "open_issues": 0,
                 "owner": "Freakler",
                 "repo": "vita-PSVident",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4432,12 +5996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic benchmarking plugin for PSVITA.",
+                "homepage": null,
                 "id": 576944505,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-11T13:56:13Z",
+                "open_issues": 0,
                 "owner": "Rinnegatamante",
                 "repo": "ViBeS",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4461,12 +6030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "henlo-based jailbreak for Playstation Vita/TV running firmware 3.65+",
+                "homepage": null,
                 "id": 583045992,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-02-18T19:01:39Z",
+                "open_issues": 5,
                 "owner": "SKGleba",
                 "repo": "henlo_jb",
-                "stars": 96
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4484,12 +6058,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A place for my ports and patches including instructions.",
+                "homepage": null,
                 "id": 356022038,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-20T11:17:00Z",
+                "open_issues": 12,
                 "owner": "hatoving",
                 "repo": "gms-vita-old-instructions",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4507,12 +6086,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 100705759,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-03T06:19:42Z",
+                "open_issues": 0,
                 "owner": "raing3",
                 "repo": "psp-cheat-documentation",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4536,12 +6120,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "App language override plugin for taiHEN - UNMAINTAINED",
+                "homepage": null,
                 "id": 143045284,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-06-05T21:34:13Z",
+                "open_issues": 4,
                 "owner": "xdanieldzd",
                 "repo": "forcelang",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "psvita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4552,12 +6143,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ukrainian language for the PSVita · Українська мова для PSVita",
+                "homepage": "https://danila-alinad.github.io/Vitohlyad/index.html",
                 "id": 841157216,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-14T11:32:37Z",
+                "open_issues": 1,
                 "owner": "v-atamanenko",
                 "repo": "vitohlyad",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "localization",
+                  "psvita",
+                  "translation",
+                  "ukrainian-language"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4581,12 +6182,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding authority.",
+                "homepage": "https://abdess.github.io/retrobios/",
                 "id": 261238984,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T09:25:59Z",
+                "open_issues": 6,
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 6901
+                "stars": 6910,
+                "topics": [
+                  "batocera",
+                  "bios",
+                  "emudeck",
+                  "emulator",
+                  "emulatorjs",
+                  "firmware",
+                  "lakka",
+                  "libretro",
+                  "mame",
+                  "nintendo",
+                  "playstation",
+                  "preservation",
+                  "recalbox",
+                  "retroarch",
+                  "retrobat",
+                  "retrodeck",
+                  "retrogaming",
+                  "retropie",
+                  "romm",
+                  "sega"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4604,12 +6231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enables native resolution in a few PSP games",
+                "homepage": null,
                 "id": 294961437,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-10T20:01:02Z",
+                "open_issues": 9,
                 "owner": "TheOfficialFloW",
                 "repo": "GePatch",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4620,12 +6252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Commercial game compatibility database",
+                "homepage": null,
                 "id": 130765034,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:53:21Z",
+                "open_issues": 3259,
                 "owner": "Vita3K",
                 "repo": "compatibility",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4636,12 +6273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compatibility List for DaedalusX64-VitaGL (https://github.com/Rinnegatamante/DaedalusX64-vitaGL)",
+                "homepage": null,
                 "id": 260447030,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-20T21:28:00Z",
+                "open_issues": 474,
                 "owner": "Rinnegatamante",
                 "repo": "DaedalusX64-vitaGL-Compatibility",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4652,12 +6294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compatibility List for YoYo Loader Vita (https://github.com/Rinnegatamante/yoyoloader_vita)",
+                "homepage": null,
                 "id": 478730047,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-13T22:59:53Z",
+                "open_issues": 1090,
                 "owner": "Rinnegatamante",
                 "repo": "YoYo-Loader-Vita-Compatibility",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4668,12 +6315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compatibility list for Flycast Vita ( https://github.com/Rinnegatamante/flycast-vita )",
+                "homepage": null,
                 "id": 521979213,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-20T21:30:08Z",
+                "open_issues": 227,
                 "owner": "Rinnegatamante",
                 "repo": "flycast-vita-compatibility-list",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4691,12 +6343,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of awesome stuff for PlayStation Vita",
+                "homepage": null,
                 "id": 274888596,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-08-03T17:05:10Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
-                "stars": 1805
+                "stars": 1806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "playstation",
+                  "playstation-vita",
+                  "ps-vita",
+                  "pstv",
+                  "psv",
+                  "psvita",
+                  "vita"
+                ]
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4707,12 +6374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next AutoPlugin 2",
+                "homepage": null,
                 "id": 244262267,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-23T02:19:50Z",
+                "open_issues": 5,
                 "owner": "ONElua",
                 "repo": "AutoPlugin2",
-                "stars": 570
+                "stars": 570,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4723,12 +6395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of candidate Android games portable to Vita. ( https://www.rinnegatamante.eu/android/ )",
+                "homepage": null,
                 "id": 338150711,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-10T22:55:50Z",
+                "open_issues": 687,
                 "owner": "Rinnegatamante",
                 "repo": "Android2Vita-Candidate-Ports-List",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             },
@@ -4739,12 +6416,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Repository to start bounties for new Vita projects. (Discord Server: https://discord.gg/PyCaBx9 )",
+                "homepage": null,
                 "id": 197944726,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-24T18:03:46Z",
+                "open_issues": 34,
                 "owner": "vita-nuova",
                 "repo": "bounties",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
             }
@@ -4758,15 +6440,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:45.469Z",
+    "last_updated": "2026-08-29T04:15:45.074Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome stuff for PlayStation Vita",
+      "homepage": null,
       "id": 274888596,
       "language": "Markdown",
+      "license": null,
       "last_commit": "2026-08-03T17:05:10Z",
+      "open_issues": 0,
       "owner": "MuxaJlbl4",
       "repo": "Awesome-PlayStation-Vita",
-      "stars": 1805
+      "stars": 1806,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "playstation",
+        "playstation-vita",
+        "ps-vita",
+        "pstv",
+        "psv",
+        "psvita",
+        "vita"
+      ]
     },
     "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
     "enhanced_repository": "enhansome/enhansome-Awesome-PlayStation-Vita",
