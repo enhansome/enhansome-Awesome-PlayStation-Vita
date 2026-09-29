@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "SKGleba",
                 "repo": "enso_ex",
-                "stars": 234,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -390,7 +390,7 @@
                 "open_issues": 84,
                 "owner": "blastrock",
                 "repo": "pkgj",
-                "stars": 1329,
+                "stars": 1330,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -791,8 +791,8 @@
                 "id": 274888596,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-08-03T17:05:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T12:08:54Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1831,
@@ -826,7 +826,7 @@
                 "open_issues": 2,
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 634,
+                "stars": 635,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -886,7 +886,7 @@
                 "open_issues": 98,
                 "owner": "Cpasjuste",
                 "repo": "pemu",
-                "stars": 515,
+                "stars": 516,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -904,7 +904,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-28T01:16:07Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "libretro",
                 "repo": "libretro-super",
                 "stars": 470,
@@ -924,7 +924,7 @@
                 "id": 774127916,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-27T08:35:32Z",
+                "last_commit": "2026-09-29T00:27:49Z",
                 "open_issues": 103,
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
@@ -1024,11 +1024,11 @@
                 "id": 640359193,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T03:41:28Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-28T08:47:00Z",
+                "open_issues": 30,
                 "owner": "isage",
                 "repo": "Adrenaline",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -1052,11 +1052,11 @@
                 "id": 27788471,
                 "language": "C",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-27T09:34:21Z",
+                "last_commit": "2026-09-28T22:36:28Z",
                 "open_issues": 858,
                 "owner": "mgba-emu",
                 "repo": "mgba",
-                "stars": 7446,
+                "stars": 7450,
                 "topics": [
                   "emulator",
                   "game-boy",
@@ -1118,7 +1118,7 @@
                 "open_issues": 28,
                 "owner": "Rinnegatamante",
                 "repo": "DaedalusX64-vitaGL",
-                "stars": 427,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 439,
                 "owner": "EasyRPG",
                 "repo": "Player",
-                "stars": 1227,
+                "stars": 1226,
                 "topics": [
                   "3ds-homebrew",
                   "cross-platform",
@@ -1258,8 +1258,8 @@
                 "id": 976168502,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-27T23:56:09Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-28T09:20:51Z",
+                "open_issues": 53,
                 "owner": "ScratchEverywhere",
                 "repo": "ScratchEverywhere",
                 "stars": 539,
@@ -1458,8 +1458,8 @@
                 "id": 65408453,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-27T20:00:36Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-28T22:32:14Z",
+                "open_issues": 43,
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
                 "stars": 321,
@@ -1548,7 +1548,7 @@
                 "open_issues": 18,
                 "owner": "Rinnegatamante",
                 "repo": "yoyoloader_vita",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -1601,6 +1601,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LinuxOnVita",
+              "description": "A complete distribution, automated build environment, and handheld userland for running Linux 6.12 on hacked PlayStation Vita consoles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Linux... on the PS Vita!",
+                "homepage": null,
+                "id": 1380273847,
+                "language": "C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-28T15:04:40Z",
+                "open_issues": 3,
+                "owner": "devwithzachary",
+                "repo": "LinuxOnVita",
+                "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T02:36:27.874Z"
             }
           ],
           "description": null,
@@ -2028,7 +2049,7 @@
                 "open_issues": 2,
                 "owner": "isage",
                 "repo": "vita-usb-ether",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -2642,7 +2663,7 @@
                 "open_issues": 14,
                 "owner": "thcolin",
                 "repo": "gamepad-media-center-aggregator",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -3573,10 +3594,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-25T06:34:29Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "xfangfang",
                 "repo": "wiliwili",
-                "stars": 5509,
+                "stars": 5512,
                 "topics": [
                   "bilibili",
                   "mpv",
@@ -3790,7 +3811,7 @@
                 "open_issues": 43,
                 "owner": "Creckeryop",
                 "repo": "NOBORU",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "app",
                   "cbz",
@@ -3882,7 +3903,7 @@
                 "id": 652522172,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T01:40:41Z",
+                "last_commit": "2026-09-28T10:33:30Z",
                 "open_issues": 60,
                 "owner": "dragonflylee",
                 "repo": "switchfin",
@@ -3913,7 +3934,7 @@
                 "open_issues": 82,
                 "owner": "xerpi",
                 "repo": "vita-udcd-uvc",
-                "stars": 551,
+                "stars": 552,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -4005,10 +4026,10 @@
                 "language": "Rust",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-06T15:24:15Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "Day-OS",
                 "repo": "green-vita",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "psvita",
                   "psvita-homebrew"
@@ -4032,7 +4053,7 @@
                 "open_issues": 65,
                 "owner": "mauricio-gg",
                 "repo": "vitaki-vitarps5",
-                "stars": 93,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -4831,8 +4852,8 @@
                 "id": 274888596,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-08-03T17:05:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T12:08:54Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1831,
@@ -4957,7 +4978,7 @@
                 "open_issues": 42,
                 "owner": "Saramagrean",
                 "repo": "CWCheat-Database-Plus-",
-                "stars": 813,
+                "stars": 816,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -5180,7 +5201,7 @@
                 "open_issues": 2,
                 "owner": "Rinnegatamante",
                 "repo": "vitaGL",
-                "stars": 634,
+                "stars": 635,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -5647,11 +5668,11 @@
                 "id": 41215835,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T13:46:03Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-28T08:02:10Z",
+                "open_issues": 293,
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24519,
+                "stars": 24528,
                 "topics": [
                   "gplv2",
                   "multi-platform",
@@ -5700,7 +5721,7 @@
                 "open_issues": 1,
                 "owner": "lusid1",
                 "repo": "pkg2zip",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:45.469Z"
@@ -6191,7 +6212,7 @@
                 "open_issues": 1,
                 "owner": "Abdess",
                 "repo": "retrobios",
-                "stars": 7222,
+                "stars": 7235,
                 "topics": [
                   "batocera",
                   "bios",
@@ -6257,8 +6278,8 @@
                 "id": 130765034,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-26T04:39:37Z",
-                "open_issues": 3311,
+                "last_commit": "2026-09-28T10:50:36Z",
+                "open_issues": 3312,
                 "owner": "Vita3K",
                 "repo": "compatibility",
                 "stars": 200,
@@ -6348,8 +6369,8 @@
                 "id": 274888596,
                 "language": "Markdown",
                 "license": null,
-                "last_commit": "2026-08-03T17:05:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-28T12:08:54Z",
+                "open_issues": 0,
                 "owner": "MuxaJlbl4",
                 "repo": "Awesome-PlayStation-Vita",
                 "stars": 1831,
@@ -6440,7 +6461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:46:10.143Z",
+    "last_updated": "2026-09-29T02:36:27.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome stuff for PlayStation Vita",
@@ -6448,8 +6469,8 @@
       "id": 274888596,
       "language": "Markdown",
       "license": null,
-      "last_commit": "2026-08-03T17:05:10Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-28T12:08:54Z",
+      "open_issues": 0,
       "owner": "MuxaJlbl4",
       "repo": "Awesome-PlayStation-Vita",
       "stars": 1831,
@@ -6465,7 +6486,7 @@
         "vita"
       ]
     },
-    "original_repository_sha": "b3b4abc3082f43cd961c1cfc62c73b18db685745",
+    "original_repository_sha": "5540416839175793eb4cbcaf91acf031ff05e42a",
     "enhanced_repository": "enhansome/enhansome-Awesome-PlayStation-Vita",
     "enhanced_repository_description": null,
     "title": "Awesome PlayStation Vita with stars"
