@@ -781,37 +781,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Non VitaDB",
-              "description": "VitaDB unavailable games collection",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "List of awesome stuff for PlayStation Vita",
-                "homepage": null,
-                "id": 274888596,
-                "language": "Markdown",
-                "license": null,
-                "last_commit": "2026-09-28T12:08:54Z",
-                "open_issues": 0,
-                "owner": "MuxaJlbl4",
-                "repo": "Awesome-PlayStation-Vita",
-                "stars": 1834,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "playstation",
-                  "playstation-vita",
-                  "ps-vita",
-                  "pstv",
-                  "psv",
-                  "psvita",
-                  "vita"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:45.469Z"
-            },
-            {
-              "node_type": "item",
               "title": "VitaGL Games",
               "description": "List of projects using VitaGL",
               "children": [],
@@ -924,7 +893,7 @@
                 "id": 774127916,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T02:05:45Z",
+                "last_commit": "2026-10-03T02:22:29Z",
                 "open_issues": 104,
                 "owner": "noword",
                 "repo": "Emu4VitaPlus",
@@ -1458,7 +1427,7 @@
                 "id": 65408453,
                 "language": "Java",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-02T09:05:09Z",
+                "last_commit": "2026-10-03T04:09:42Z",
                 "open_issues": 42,
                 "owner": "SquirrelJME",
                 "repo": "SquirrelJME",
@@ -1615,7 +1584,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T09:18:54Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "devwithzachary",
                 "repo": "LinuxOnVita",
                 "stars": 46,
@@ -4842,37 +4811,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Global Mods",
-              "description": "List of total game conversion mods",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "List of awesome stuff for PlayStation Vita",
-                "homepage": null,
-                "id": 274888596,
-                "language": "Markdown",
-                "license": null,
-                "last_commit": "2026-09-28T12:08:54Z",
-                "open_issues": 0,
-                "owner": "MuxaJlbl4",
-                "repo": "Awesome-PlayStation-Vita",
-                "stars": 1834,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "playstation",
-                  "playstation-vita",
-                  "ps-vita",
-                  "pstv",
-                  "psv",
-                  "psvita",
-                  "vita"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:45.469Z"
-            },
-            {
-              "node_type": "item",
               "title": "GTA: SA 10th Anniversary Edition",
               "description": "10th Anniversary Edition extensions for GTA:SA-vita",
               "children": [],
@@ -6359,37 +6297,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Hotkeys",
-              "description": "Awesome list of app/plugin and system hotkeys",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "List of awesome stuff for PlayStation Vita",
-                "homepage": null,
-                "id": 274888596,
-                "language": "Markdown",
-                "license": null,
-                "last_commit": "2026-09-28T12:08:54Z",
-                "open_issues": 0,
-                "owner": "MuxaJlbl4",
-                "repo": "Awesome-PlayStation-Vita",
-                "stars": 1834,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "playstation",
-                  "playstation-vita",
-                  "ps-vita",
-                  "pstv",
-                  "psv",
-                  "psvita",
-                  "vita"
-                ]
-              },
-              "first_seen": "2026-08-28T06:57:45.469Z"
-            },
-            {
-              "node_type": "item",
               "title": "Plugin Descriptions",
               "description": "Short plugin descriptions from Autoplugin 2",
               "children": [],
@@ -6461,7 +6368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:06:31.224Z",
+    "last_updated": "2026-10-03T04:25:51.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome stuff for PlayStation Vita",
