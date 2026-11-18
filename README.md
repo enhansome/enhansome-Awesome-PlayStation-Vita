@@ -123,7 +123,7 @@ Contains all most important, actual and cool things in my humble opinion.
 * [PKGj](https://github.com/blastrock/pkgj) ⭐ 1,343 | 🐛 88 | 🌐 C++ | 📅 2026-06-09 - [NoPayStation](https://nopaystation.com) browser and installer
 * [Autoplugin 2](https://github.com/ONElua/AutoPlugin2) ⭐ 588 | 🐛 4 | 🌐 Lua | 📅 2026-11-07 - Plugin browser and installer
 * [VitaDB Downloader](https://github.com/Rinnegatamante/VitaDB-Downloader) ⭐ 322 | 🐛 9 | 🌐 C++ | 📅 2026-10-25 - Official client for [VitaDB](https://www.rinnegatamante.eu/vitadb) by [Rinnegatamante](https://github.com/Rinnegatamante)
-* [NeoVitaDB Downloader](https://github.com/robin994/NeoVitaDB-Downloader) ⭐ 137 | 🐛 3 | 🌐 C++ | 📅 2026-08-16 - Fork of VitaDB Downloader, based on [alternate community catalog](https://robin994.github.io/NeoVitaDB-Catalog)
+* [NeoVitaDB Downloader](https://github.com/robin994/NeoVitaDB-Downloader) ⭐ 138 | 🐛 3 | 🌐 C++ | 📅 2026-08-16 - Fork of VitaDB Downloader, based on [alternate community catalog](https://robin994.github.io/NeoVitaDB-Catalog)
 * [RepoHub](https://github.com/robDevs/RepoHub) ⭐ 74 | 🐛 1 | 🌐 C++ | 📅 2020-01-08 - Viewer and downloader for GitHub repos and releases
 * [EasyVPK](https://github.com/Electric1447/EasyVPK) ⭐ 69 | 🐛 2 | 🌐 C++ | 📅 2021-08-14 - [VitaDB](https://rinnegatamante.eu/vitadb) browser and installer
 * [Save Sync](https://github.com/unveroleone/save-sync) ⭐ 26 | 🐛 2 | 🌐 C | 📅 2026-11-09 - Self-hosted cloud save sync for PS Vita, PPSSPP, and RetroArch, across all your devices
@@ -143,7 +143,7 @@ Contains all most important, actual and cool things in my humble opinion.
 * [yamt-vita](https://github.com/SKGleba/yamt-vita) ⭐ 182 | 🐛 5 | 🌐 C | 📅 2021-08-23 - Yet another (re)mount tool kernel plugin
 * [IMCUnlock](https://github.com/SKGleba/IMCUnlock) ⭐ 75 | 🐛 1 | 🌐 C | 📅 2020-07-19 - Internal ux storage enabler/manager
 * [yamt-lite](https://github.com/AuroraWright/yamt-vita-lite) ⭐ 36 | 🐛 0 | 🌐 C | 📅 2019-12-05 - Yamt that doesn't rely on a mounted storage or config
-* [PS Vita Recovery Menu Project](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) ⭐ 27 | 🐛 2 | 🌐 C | 📅 2026-11-16 - Diagnostic and recovery environment
+* [PS Vita Recovery Menu Project](https://github.com/DrinkingSubset/PS-Vita-Recovery-Menu-Project) ⭐ 28 | 🐛 2 | 🌐 C | 📅 2026-11-16 - Diagnostic and recovery environment
 * [Application Storage Manager](https://bitbucket.org/Lupo511/appstoragemanager/src/master) - Moves apps to/from internal memory
 
 ### ⚡ Flash Adapters
@@ -170,7 +170,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 🌱 HomeBrew
 
-* [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) ⭐ 660 | 🐛 4 | 🌐 C | 📅 2026-11-16 - List of projects using VitaGL
+* [VitaGL Games](https://github.com/Rinnegatamante/vitaGL#projects-actually-using-vitagl) ⭐ 660 | 🐛 4 | 🌐 C | 📅 2026-11-17 - List of projects using VitaGL
 * [Lua Games](https://github.com/Rinnegatamante/lpp-vita#showcase) ⭐ 210 | 🐛 19 | 🌐 C | 📅 2025-12-18 - List of projects using Lua Player Plus
 * [VitaDB](https://www.rinnegatamante.eu/vitadb) - A collection of ports, emulators and original games
 * [Non VitaDB](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita/blob/master/Games.md#non-vitadb) - VitaDB unavailable games collection
@@ -185,7 +185,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🌌 Collections
 
 * [pFBN](https://github.com/Cpasjuste/pemu) ⭐ 531 | 🐛 104 | 🌐 Assembly | 📅 2026-08-18 - Several Arcade and Console systems emulator
-* [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) ⭐ 474 | 🐛 96 | 🌐 Shell | 📅 2026-11-16 - List of RetroArch Cores for Vita
+* [Cores List](https://github.com/libretro/libretro-super/blob/master/recipes/playstation/vita) ⭐ 473 | 🐛 96 | 🌐 Shell | 📅 2026-11-16 - List of RetroArch Cores for Vita
 * [Emu4Vita++](https://github.com/noword/Emu4VitaPlus) ⭐ 267 | 🐛 107 | 🌐 C++ | 📅 2026-11-12 - Frontend for libretro cores
 * [RetroArch](https://buildbot.libretro.com/nightly/playstation/vita) -  Frontend for emulators, game engines and media players with bunch of cores
 * [Recommended Cores](https://www.reddit.com/r/vitahacks/comments/rts9an/my_recommended_retroarch_cores_to_emulate_nes) - Best cores for Vita
@@ -193,7 +193,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 8️⃣ 8th Gen
 
-* [Azahar](https://github.com/Grarak/azahar) ⭐ 100 | 🐛 0 | 🌐 C++ | 📅 2026-09-12 - 3DS emulator based on [Citra](https://citra-emulator.com)
+* [Azahar](https://github.com/Grarak/azahar) ⭐ 101 | 🐛 0 | 🌐 C++ | 📅 2026-09-12 - 3DS emulator based on [Citra](https://citra-emulator.com)
 
 ### 7️⃣ 7th Gen
 
@@ -203,7 +203,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 6️⃣ 6th Gen
 
-* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,609 | 🐛 871 | 🌐 C | 📅 2026-11-16 - Nintendo Game Boy Advance emulator
+* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,611 | 🐛 871 | 🌐 C | 📅 2026-11-16 - Nintendo Game Boy Advance emulator
 * [Flycast-vita​](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449) - Sega Dreamcast emulator
 
 ### 5️⃣ 5th Gen
@@ -223,8 +223,8 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 💎 Game Engines
 
-* [EasyRPG Player](https://github.com/EasyRPG/Player) ⭐ 1,266 | 🐛 448 | 🌐 C++ | 📅 2026-11-17 - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
-* [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) ⭐ 547 | 🐛 55 | 🌐 C++ | 📅 2026-11-17 - Custom Scratch runtime
+* [EasyRPG Player](https://github.com/EasyRPG/Player) ⭐ 1,267 | 🐛 448 | 🌐 C++ | 📅 2026-11-17 - Interpreter for RPG Maker 2000, 2003 and EasyRPG engines
+* [ScratchEverywhere](https://github.com/ScratchEverywhere/ScratchEverywhere) ⭐ 546 | 🐛 54 | 🌐 C++ | 📅 2026-11-18 - Custom Scratch runtime
 * [Godot](https://github.com/SonicMastr/godot) ⭐ 335 | 🐛 22 | 🌐 C++ | 📅 2025-07-12 - Godot engine with included support for PS Vita
 * [Xenity Engine](https://github.com/Fewnity/Xenity-Engine) ⭐ 208 | 🐛 2 | 🌐 C++ | 📅 2026-10-04 - PSP, PS Vita and PS3 game engine
 * [renpy-vita](https://github.com/SonicMastr/renpy-vita) ⭐ 115 | 🐛 8 | 🌐 Shell | 📅 2023-05-14 - Visual novel engine Ren'Py
@@ -235,8 +235,8 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### ⌨️ Interpreters & Virtual Machines
 
-* [fake-08](https://github.com/jtothebell/fake-08) ⭐ 889 | 🐛 70 | 🌐 C++ | 📅 2026-06-13 - PICO-8 virtual machine emulator
-* [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME) ⭐ 332 | 🐛 41 | 🌐 Java | 📅 2026-11-16)
+* [fake-08](https://github.com/jtothebell/fake-08) ⭐ 891 | 🐛 70 | 🌐 C++ | 📅 2026-06-13 - PICO-8 virtual machine emulator
+* [PSPKVM](https://sourceforge.net/projects/pspkvm) - Java ME emulator for PSP (analog for RetroArch [SquirrelJME core](https://github.com/SquirrelJME/SquirrelJME) ⭐ 332 | 🐛 41 | 🌐 Java | 📅 2026-11-18)
 * [cpython-vita](https://github.com/SonicMastr/cpython-vita) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2023-04-11 - Python 2.7.18 Interpreter
 * [VITA-8](https://github.com/xerpi/VITA-8/tree/sw-render) ⭐ 18 | 🐛 0 | 🌐 C | 📅 2022-03-04 - CHIP-8 emulator
 * [MicroCHIP](https://wololo.net/talk/viewtopic.php?f=116\&t=48620) - Interpreter for CHIP-8/SCHIP-8 games
@@ -287,7 +287,7 @@ Contains all most important, actual and cool things in my humble opinion.
 ### 🔨 Toolsets
 
 * [VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) ⭐ 250 | 🐛 7 | 🌐 C | 📅 2019-12-28 - A collection of small tweaks
-* [VitaTools](https://github.com/SKGleba/VitaTools) ⭐ 110 | 🐛 9 | 🌐 C | 📅 2023-06-29 - Useful tools for PSP2 Vita and Dolce
+* [VitaTools](https://github.com/SKGleba/VitaTools) ⭐ 109 | 🐛 9 | 🌐 C | 📅 2023-06-29 - Useful tools for PSP2 Vita and Dolce
 * [Vitatricks.xyz](https://vitatricks.xyz) - Online set of useful PS Vita tools
 * [Homebrew Software](https://git.shotatoshounenwachigau.moe/vita) - PS Vita utilities
 
@@ -313,7 +313,7 @@ Contains all most important, actual and cool things in my humble opinion.
 * [PSP2-batteryFixer](https://github.com/SKGleba/PSP2-batteryFixer) ⭐ 143 | 🐛 6 | 🌐 C | 📅 2023-01-08 - Fixes most battery related problems
 * [FdFix](https://github.com/TheOfficialFloW/FdFix) ⭐ 62 | 🐛 0 | 🌐 C | 📅 2020-10-27 - Fixes invalidated file descriptors after suspend and resume (for [re3-vita](https://www.psx-place.com/threads/re3-vita-a-full-reverse-engineered-reimplementation-of-gta-iii.31588))
 * [ShaRKF00D](https://github.com/OsirizX/ShaRKF00D) ⭐ 58 | 🐛 3 | 🌐 C | 📅 2020-10-03 - Allows you to access runtime shader compiler (for [AvP Gold](https://www.psx-place.com/threads/avp-gold.30555))
-* [kubridge](https://github.com/bythos14/kubridge) ⭐ 51 | 🐛 1 | 🌐 C | 📅 2026-05-31 - DynaRec feature extender for VitaGL games
+* [kubridge](https://github.com/bythos14/kubridge) ⭐ 52 | 🐛 1 | 🌐 C | 📅 2026-05-31 - DynaRec feature extender for VitaGL games
 * [USBDisable](https://github.com/Ibrahim778/USBDisable) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2024-06-01 - Disable the annoying "Connecting" dialog when you connect your Vita to your PC
 * [psv\_trophfix](https://github.com/Yoti/psv_trophfix) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2018-08-03 - Trophies fixer
 * [psv\_npsthmfxr](https://github.com/Yoti/psv_npsthmfxr) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2024-02-11 - NPS themes fixer
@@ -358,7 +358,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 * [MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) ⭐ 197 | 🐛 28 | 🌐 C | 📅 2021-02-24 - Allows you to connect up to 4 DS3/DS4 controllers to PS Vita
 * [ds4vita](https://github.com/xerpi/ds4vita) ⭐ 182 | 🐛 47 | 🌐 C | 📅 2021-05-15 - Adds DualShock support
-* [GMCA](https://github.com/thcolin/gamepad-media-center-aggregator) ⭐ 152 | 🐛 18 | 🌐 C++ | 📅 2026-10-24 - Gamepad media center aggregator
+* [GMCA](https://github.com/thcolin/gamepad-media-center-aggregator) ⭐ 152 | 🐛 19 | 🌐 C++ | 📅 2026-10-24 - Gamepad media center aggregator
 * [VitaControl](https://github.com/Hydr8gon/VitaControl) ⭐ 111 | 🐛 16 | 🌐 C++ | 📅 2023-12-29 - Allows to use a wide variety of bluetooth controllers
 * [ds34vita](https://github.com/MERLev/ds34vita) ⭐ 61 | 🐛 2 | 🌐 C | 📅 2024-01-01 - Allows to use Dualshock 3/4 controllers
 * [8BitVita](https://github.com/Ibrahim778/8BitVita) ⭐ 42 | 🐛 12 | 🌐 C | 📅 2021-08-13 - Adds 8BitDo controller support
@@ -393,7 +393,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 🧬 System
 
-* [vita-bootanim](https://github.com/SKGleba/VitaTools#vita-bootanim) ⭐ 110 | 🐛 9 | 🌐 C | 📅 2023-06-29 - Custom boot animations
+* [vita-bootanim](https://github.com/SKGleba/VitaTools#vita-bootanim) ⭐ 109 | 🐛 9 | 🌐 C | 📅 2023-06-29 - Custom boot animations
 * [fontInstaller](https://github.com/cxziaho/fontInstaller) ⭐ 17 | 🐛 1 | 🌐 C | 📅 2017-09-29 - An app for installing the [fontRedirect](https://github.com/cxziaho/fontRedirect) ⭐ 6 | 🐛 1 | 🌐 C | 📅 2017-09-24 plugin for injecting custom fonts
 
 ### 🎹 Interface
@@ -401,7 +401,7 @@ Contains all most important, actual and cool things in my humble opinion.
 * [psp2wpp](https://github.com/Princess-of-Sleeping/psp2wpp) ⭐ 43 | 🐛 2 | 🌐 C | 📅 2023-03-22 - Adds wave on background
 * [QuickLaunch-Installer](https://github.com/DRok17/QuickLaunch-Installer) ⭐ 33 | 🐛 0 | 🌐 Batchfile | 📅 2021-10-12 - Allows you to customize the quick menu shortcuts
 * [Quick Menu Plus Fork](https://github.com/VitaArchive/QuickMenuPlus) ⭐ 27 | 🐛 5 | 🌐 C | 📅 2025-06-20 - Power features in the Vita Quick Menu
-* [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) ⭐ 20 | 🐛 2 | 🌐 Lua | 📅 2019-06-04 - Custom shortcuts in the PS Vita index menu
+* [Shortcuts Enhancer](https://github.com/ONElua/Shortcuts-Enhancer) ⭐ 19 | 🐛 2 | 🌐 Lua | 📅 2019-06-04 - Custom shortcuts in the PS Vita index menu
 * [TransparentImpose](https://github.com/GrapheneCt/TransparentImpose) ⭐ 12 | 🐛 1 | 🌐 C | 📅 2020-03-21 - Makes impose menu transparent
 * [TEMA](https://github.com/Mithrenes/TEMA) ⭐ 4 | 🐛 1 | 🌐 C | 📅 2023-02-01 - LiveArea and VitaShell Theme Installer
 * [PSVita Custom Themes Free Repository](https://psv.altervista.org/index.php) - Custom Themes Repository
@@ -412,7 +412,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 🔮 Bubbles
 
-* [livearea\_nolimits](https://github.com/devnoname120/livearea_nolimits) ⭐ 47 | 🐛 6 | 🌐 C | 📅 2026-10-11 - Expands LiveArea home screen page limit from 10 to 50
+* [livearea\_nolimits](https://github.com/devnoname120/livearea_nolimits) ⭐ 48 | 🐛 6 | 🌐 C | 📅 2026-10-11 - Expands LiveArea home screen page limit from 10 to 50
 * [Multi-Builder](https://github.com/DRok17/Multi-Builder) ⭐ 35 | 🐛 5 | 🌐 Batchfile | 📅 2024-02-11 - LiveArea bubble creation and editing tool for PC
 * [FAQ to Vita Manual Converter](https://github.com/RawBOT/faq-to-vita-manual) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2022-05-18 - Converts HTML to bubble manual
 * [FakeName-Changer](https://github.com/Eywa186/FakeName-Changer-For-PSVita) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-05-03 - Renames LiveArea bubble titles without touching PARAM.SFO
@@ -463,25 +463,25 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 📖 Reading
 
-* [Noboru](https://github.com/Creckeryop/NOBORU) ⭐ 206 | 🐛 43 | 🌐 Lua | 📅 2023-07-08 - ZIP, CBZ reader
+* [Noboru](https://github.com/Creckeryop/NOBORU) ⭐ 207 | 🐛 43 | 🌐 Lua | 📅 2023-07-08 - ZIP, CBZ reader
 * [Bookr](https://github.com/pathway27/bookr-mod-vita) ⭐ 74 | 🐛 11 | 🌐 C | 📅 2021-06-02 - PDF, CBZ, HTML, ePub, FB2 reader
 * [vitaPDF](https://github.com/joel16/vitaPDF) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2025-09-29 -  CBT, CBZ, ePub, FB2, MOBI, PDF, XPS reader
 
 ### 📹 Local Streaming
 
-* [Switchfin](https://github.com/dragonflylee/switchfin) ⭐ 906 | 🐛 51 | 🌐 C++ | 📅 2026-11-16 - [Jellyfin](https://jellyfin.org) client for PC/PS4/PS Vita/Nintendo Switch
+* [Switchfin](https://github.com/dragonflylee/switchfin) ⭐ 907 | 🐛 52 | 🌐 C++ | 📅 2026-11-16 - [Jellyfin](https://jellyfin.org) client for PC/PS4/PS Vita/Nintendo Switch
 * [udcd\_uvc](https://github.com/xerpi/vita-udcd-uvc) ⭐ 555 | 🐛 82 | 🌐 C | 📅 2025-05-11 -  Allows you stream your PS Vita screen to PC/Android via USB
 
 ### 🎥 Online Streaming
 
-* [Wiliwili](https://github.com/xfangfang/wiliwili) ⭐ 5,706 | 🐛 126 | 🌐 C++ | 📅 2026-10-31 - [Bilibili](https://www.bilibili.com) client
-* [NetStream](https://github.com/GrapheneCt/NetStream) ⭐ 249 | 🐛 36 | 🌐 C++ | 📅 2026-04-23 - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md) ⭐ 827 | 🐛 38 | 🌐 Dockerfile | 📅 2026-10-24
+* [Wiliwili](https://github.com/xfangfang/wiliwili) ⭐ 5,710 | 🐛 128 | 🌐 C++ | 📅 2026-10-31 - [Bilibili](https://www.bilibili.com) client
+* [NetStream](https://github.com/GrapheneCt/NetStream) ⭐ 248 | 🐛 36 | 🌐 C++ | 📅 2026-04-23 - Universal video streaming client from YouTube, HTTP, FTP... Requires active [Invidious Instance](https://github.com/iv-org/documentation/blob/master/docs/instances.md) ⭐ 828 | 🐛 38 | 🌐 Dockerfile | 📅 2026-10-24
 * [TubeVita](https://github.com/theheroGAC/TubeVita) ⭐ 61 | 🐛 1 | 🌐 Lua | 📅 2019-05-14 - Alternative YouTube client
 * [VitaSpot](https://github.com/0oPerryo0/VitaSpot) ⭐ 9 | 🐛 3 | 🌐 C | 📅 2026-10-27 - Spotify client (premium required)
 
 ### 🛜 Local Remote Play
 
-* [Vita Moonlight](https://github.com/xyzz/vita-moonlight) ⭐ 829 | 🐛 76 | 🌐 C++ | 📅 2026-11-17 - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 43,488 | 🐛 172 | 🌐 C++ | 📅 2026-11-17) client for Vita
+* [Vita Moonlight](https://github.com/xyzz/vita-moonlight) ⭐ 830 | 🐛 77 | 🌐 C++ | 📅 2026-11-17 - NVIDIA Gamestream (or [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 43,513 | 🐛 172 | 🌐 C++ | 📅 2026-11-18) client for Vita
 * [VitaRPS5](https://github.com/mauricio-gg/vitaki-vitarps5) ⭐ 120 | 🐛 32 | 🌐 C | 📅 2026-11-01 - PlayStation 5 Remote Play on PS Vita
 * [VItaki](https://www.gamebrew.org/wiki/VItaki) - PlayStation 5 Remote Play on PS Vita ([Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) port)
 * [Vita Steam Link](https://vankash.de/steamonvita) - Steam games streaming from your PC to a PS Vita over your home network
@@ -497,7 +497,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 * [PSVshell](https://github.com/Electry/PSVshell) ⭐ 333 | 🐛 17 | 🌐 C | 📅 2023-03-22 - Overclock plugin with FPS counter and CPU usage
 * [PSVshellPlus](https://github.com/GrapheneCt/PSVshellPlus) ⭐ 129 | 🐛 8 | 🌐 C++ | 📅 2023-05-05 - Advanced overclock and info plugin for PS Vita
-* [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) ⭐ 85 | 🐛 1 | 🌐 C | 📅 2021-11-16 - Allows to use system reserved 4th CPU core and other capabilities
+* [CapUnlocker](https://github.com/GrapheneCt/CapUnlocker) ⭐ 87 | 🐛 1 | 🌐 C | 📅 2021-11-16 - Allows to use system reserved 4th CPU core and other capabilities
 * [NoPowerLimits](https://github.com/Electry/NoPowerLimitsVita) ⭐ 60 | 🐛 0 | 🌐 C | 📅 2019-11-04 - Removes power mode restrictions
 * [LowMemMode](https://github.com/GrapheneCt/LowMemMode) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2020-04-20 - Allows launch applications in LOWPHYMEM mode
 * [Thread Optimizer](https://github.com/GrapheneCt/ThreadOptimizer) ⚠️ Archived - Adjusts thread parameters
@@ -529,7 +529,7 @@ Contains all most important, actual and cool things in my humble opinion.
 * [VitaCheat](https://github.com/r0ah/vitacheat) ⭐ 431 | 🐛 50 | 📅 2024-01-07 - Cheat plugin
 * [Cheat Plugins](https://github.com/r0ah/vitacheat/tree/master/plg) ⭐ 431 | 🐛 50 | 📅 2024-01-07 - Cheat plugins
 * [VitaCheatDatabase](https://github.com/ShumnoT/VitaCheatDatabase) ⭐ 142 | 🐛 36 | 📅 2023-04-22 - Database for VitaCheat
-* [Apollo Save Tool](https://github.com/bucanero/apollo-vita) ⭐ 135 | 🐛 6 | 🌐 C | 📅 2026-10-30 - Allows to download, unlock, patch and resign save-games
+* [Apollo Save Tool](https://github.com/bucanero/apollo-vita) ⭐ 136 | 🐛 6 | 🌐 C | 📅 2026-10-30 - Allows to download, unlock, patch and resign save-games
 * [Déjàvu](https://github.com/TheOfficialFloW/dejavu) ⭐ 115 | 🐛 5 | 🌐 C | 📅 2020-03-05 - Save state plugin
 * [ScoreHAX](https://github.com/KuromeSan/ScoreHax) ⭐ 5 | 🐛 1 | 🌐 C | 📅 2020-06-06 - Leaderboards hack
 * [TurboPad](https://wololo.net/talk/viewtopic.php?t=48065) - Allows you to enable RapidFire on any button
@@ -578,12 +578,12 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 💉 Adrenaline Plugins
 
-* [CWCheat Database +](https://github.com/Saramagrean/CWCheat-Database-Plus-) ⭐ 848 | 🐛 34 | 📅 2026-11-16 - List of cheats for CWCheat/TempAR
-* [GePatch](https://github.com/TheOfficialFloW/GePatch) ⭐ 389 | 🐛 10 | 🌐 C | 📅 2020-10-10 - Allows you to play some PSP games in native PS Vita resolution
+* [CWCheat Database +](https://github.com/Saramagrean/CWCheat-Database-Plus-) ⭐ 848 | 🐛 34 | 📅 2026-11-17 - List of cheats for CWCheat/TempAR
+* [GePatch](https://github.com/TheOfficialFloW/GePatch) ⭐ 390 | 🐛 10 | 🌐 C | 📅 2020-10-10 - Allows you to play some PSP games in native PS Vita resolution
 * [Remastered Controls Collection](https://github.com/TheOfficialFloW/RemasteredControls) ⭐ 294 | 🐛 9 | 🌐 C | 📅 2025-08-04 - Enables second stick in some PSP games
 * [PSP Achievements System](https://github.com/avetis-dev/PSPAchievementsSystem) ⭐ 102 | 🐛 6 | 🌐 C | 📅 2026-07-20 - [RetroAchievements](https://retroachievements.org) for PSP (ARK-4)
 * [GTA Native Resolution Patch](https://github.com/TheOfficialFloW/GTANativeResolution) ⚠️ Archived - Forces native PS Vita resolution in GTA:LCS and GTA:VCS PSP games
-* [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) ⭐ 95 | 🐛 7 | 🌐 C | 📅 2022-06-16 - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28\&t=47794))
+* [PSP camera patch lite](https://github.com/Freakler/psp-camera_patch_lite) ⭐ 94 | 🐛 7 | 🌐 C | 📅 2022-06-16 - Add right analog stick support to some PSP games (based on [DS3Remapper](http://wololo.net/talk/viewtopic.php?f=28\&t=47794))
 * [Aemu](https://github.com/Kethen/aemu) ⭐ 79 | 🐛 17 | 🌐 C | 📅 2026-11-15 - Allows to play offline PSP games online (æmu)
 * [TempAR](https://github.com/raing3/tempar) ⭐ 48 | 🐛 7 | 🌐 C | 📅 2022-10-03 - PSP cheat plugin
 * [Adrenaline usb enabler](https://github.com/isage/adrenaline_usb_enabler) ⚠️ Archived - Adrenaline USB pairing with PS2/PS3
@@ -598,9 +598,9 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 👨‍💻 Development
 
-* [VitaGL](https://github.com/Rinnegatamante/vitaGL) ⭐ 660 | 🐛 4 | 🌐 C | 📅 2026-11-16 - Wrapper between OpenGL and sceGxm
-* [VitaDeploy](https://github.com/SKGleba/VitaDeploy) ⭐ 334 | 🐛 15 | 🌐 C | 📅 2025-10-25 - Toolbox that makes homebrewing the PlayStation Vita/TV easier
-* [Vitadev Package manager](https://github.com/vitasdk/vdpm) ⭐ 275 | 🐛 3 | 🌐 Shell | 📅 2026-11-11 - Quickly resetting VitaSDK and getting common libraries building for the PS Vita
+* [VitaGL](https://github.com/Rinnegatamante/vitaGL) ⭐ 660 | 🐛 4 | 🌐 C | 📅 2026-11-17 - Wrapper between OpenGL and sceGxm
+* [VitaDeploy](https://github.com/SKGleba/VitaDeploy) ⭐ 335 | 🐛 16 | 🌐 C | 📅 2025-10-25 - Toolbox that makes homebrewing the PlayStation Vita/TV easier
+* [Vitadev Package manager](https://github.com/vitasdk/vdpm) ⭐ 275 | 🐛 4 | 🌐 Shell | 📅 2026-11-11 - Quickly resetting VitaSDK and getting common libraries building for the PS Vita
 * [PVR\_PSP2](https://github.com/GrapheneCt/PVR_PSP2) ⭐ 116 | 🐛 2 | 🌐 C | 📅 2024-02-07 - Native EGL, WSEGL, OpenGL ES v1.1 ports
 * [Soloader](https://github.com/v-atamanenko/soloader-boilerplate) ⭐ 79 | 🐛 1 | 🌐 C | 📅 2026-07-22 - A boilerplate project for TheFloW's so-loader
 * [PSVita Unity Utilities](https://github.com/GlitcherOG/PSVita-Unity-Utilities) ⭐ 59 | 🐛 0 | 🌐 C# | 📅 2022-07-05 - Tools to help speed up PS Vita Unity Development
@@ -633,7 +633,7 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 💻 PC
 
-* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 25,026 | 🐛 297 | 🌐 C | 📅 2026-11-16 - Video files converter (contains PlayStation presets)
+* [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 25,040 | 🐛 299 | 🌐 C | 📅 2026-11-17 - Video files converter (contains PlayStation presets)
 * [QCMA](https://github.com/codestation/qcma) ⭐ 673 | 🐛 5 | 🌐 C++ | 📅 2026-11-11 - Open Source Content Manager Assistant for PS Vita
 * [pkg2zip](https://github.com/lusid1/pkg2zip) ⭐ 292 | 🐛 1 | 🌐 C | 📅 2026-08-04 - Converts PKG files to ZIP package ([themes support](https://github.com/mmozeiko/pkg2zip/pull/14#issuecomment-374249397) ⚠️ Archived)
 * [GayMaker](https://github.com/KuromeSan/GayMaker/tree/master/GayMaker) ⭐ 85 | 🐛 6 | 🌐 C# | 📅 2024-01-03 - GameMaker:Studio to PS Vita compiler
@@ -753,15 +753,15 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ### 📦 Emulation Necessaries
 
-* [Retro BIOSes](https://github.com/Abdess/retroarch_system) ⭐ 7,708 | 🐛 1 | 🌐 Python | 📅 2026-11-17 - BIOS collection for RetroArch
+* [Retro BIOSes](https://github.com/Abdess/retroarch_system) ⭐ 7,718 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - BIOS collection for RetroArch
 * [RetroAchievements](https://retroachievements.org) - Achievement tracking for retro games
 * [Emulator Files](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS/Firmware files for emulators
 * [ROM & ISO Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - List of ROM sites
 
 ### 🧪 Compatibility Lists
 
-* [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch) ⭐ 389 | 🐛 10 | 🌐 C | 📅 2020-10-10
-* [Vita3K](https://github.com/Vita3K/compatibility/issues) ⭐ 202 | 🐛 3,381 | 📅 2026-11-16 - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,986 | 🐛 256 | 🌐 C++ | 📅 2026-11-16
+* [GePatch](https://docs.google.com/spreadsheets/d/1aZlmKwELcdpCb9ezI5iRfgcX9hoGxgL4tNC-673aKqk/edit#gid=0) - Compatibility list for [GePatch](https://github.com/TheOfficialFloW/GePatch) ⭐ 390 | 🐛 10 | 🌐 C | 📅 2020-10-10
+* [Vita3K](https://github.com/Vita3K/compatibility/issues) ⭐ 202 | 🐛 3,382 | 📅 2026-11-18 - Compatibility list for [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,988 | 🐛 254 | 🌐 C++ | 📅 2026-11-18
 * [DaedalusX64](https://github.com/Rinnegatamante/DaedalusX64-vitaGL-Compatibility/issues) ⭐ 38 | 🐛 474 | 📅 2024-07-20 - Compatibility list for [DaedalusX64-vitaGL](https://github.com/Rinnegatamante/daedalusx64-vitagl) ⭐ 432 | 🐛 29 | 🌐 C++ | 📅 2026-10-12
 * [YoYo Loader](https://github.com/Rinnegatamante/YoYo-Loader-Vita-Compatibility/issues) ⭐ 25 | 🐛 1,091 | 📅 2023-10-13 - Compatibility list for [YoYo Loader Vita](https://github.com/Rinnegatamante/yoyoloader_vita) ⭐ 215 | 🐛 19 | 🌐 C | 📅 2026-10-22
 * [Flycast](https://github.com/Rinnegatamante/flycast-vita-compatibility-list/issues) ⭐ 23 | 🐛 227 | 📅 2024-07-20 - Compatibility list for [Flycast-vita](https://www.psx-place.com/threads/release-flycast-vita-dreamcast-emulator-for-psvita-pstv.32449)
@@ -780,4 +780,4 @@ Contains all most important, actual and cool things in my humble opinion.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
